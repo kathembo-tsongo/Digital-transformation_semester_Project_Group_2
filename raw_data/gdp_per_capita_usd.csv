@@ -1,0 +1,121 @@
+country_code,country,year,indicator_code,value,indicator_name
+BDI,Burundi,2024,NY.GDP.PCAP.CD,216.231928531758,gdp_per_capita_usd
+BDI,Burundi,2023,NY.GDP.PCAP.CD,249.795164039029,gdp_per_capita_usd
+BDI,Burundi,2022,NY.GDP.PCAP.CD,301.832255755105,gdp_per_capita_usd
+BDI,Burundi,2021,NY.GDP.PCAP.CD,264.172844085398,gdp_per_capita_usd
+BDI,Burundi,2020,NY.GDP.PCAP.CD,252.702452750006,gdp_per_capita_usd
+BDI,Burundi,2019,NY.GDP.PCAP.CD,234.31061590725,gdp_per_capita_usd
+BDI,Burundi,2018,NY.GDP.PCAP.CD,245.661678332009,gdp_per_capita_usd
+BDI,Burundi,2017,NY.GDP.PCAP.CD,246.060725714184,gdp_per_capita_usd
+BDI,Burundi,2016,NY.GDP.PCAP.CD,232.937812100153,gdp_per_capita_usd
+BDI,Burundi,2015,NY.GDP.PCAP.CD,254.402585226788,gdp_per_capita_usd
+BDI,Burundi,2014,NY.GDP.PCAP.CD,250.544492155185,gdp_per_capita_usd
+BDI,Burundi,2013,NY.GDP.PCAP.CD,234.844770150871,gdp_per_capita_usd
+BDI,Burundi,2012,NY.GDP.PCAP.CD,231.098787811507,gdp_per_capita_usd
+BDI,Burundi,2011,NY.GDP.PCAP.CD,230.069761381132,gdp_per_capita_usd
+BDI,Burundi,2010,NY.GDP.PCAP.CD,216.727705301976,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2024,NY.GDP.PCAP.CD,692.887665085098,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2023,NY.GDP.PCAP.CD,660.21205238997,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2022,NY.GDP.PCAP.CD,687.738587554685,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2021,NY.GDP.PCAP.CD,595.743074403567,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2020,NY.GDP.PCAP.CD,486.425572682256,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2019,NY.GDP.PCAP.CD,504.00419142286,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2018,NY.GDP.PCAP.CD,518.169626875371,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2017,NY.GDP.PCAP.CD,431.052559128788,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2016,NY.GDP.PCAP.CD,459.765036590388,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2015,NY.GDP.PCAP.CD,495.826633014883,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2014,NY.GDP.PCAP.CD,489.175952097319,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2013,NY.GDP.PCAP.CD,460.370334930107,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2012,NY.GDP.PCAP.CD,409.931424783784,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2011,NY.GDP.PCAP.CD,372.514273875789,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2010,NY.GDP.PCAP.CD,352.400398754692,gdp_per_capita_usd
+KEN,Kenya,2024,NY.GDP.PCAP.CD,2133.46193404026,gdp_per_capita_usd
+KEN,Kenya,2023,NY.GDP.PCAP.CD,1942.58802756191,gdp_per_capita_usd
+KEN,Kenya,2022,NY.GDP.PCAP.CD,2109.56288513137,gdp_per_capita_usd
+KEN,Kenya,2021,NY.GDP.PCAP.CD,2061.35622089594,gdp_per_capita_usd
+KEN,Kenya,2020,NY.GDP.PCAP.CD,1927.66459027849,gdp_per_capita_usd
+KEN,Kenya,2019,NY.GDP.PCAP.CD,1960.40808854893,gdp_per_capita_usd
+KEN,Kenya,2018,NY.GDP.PCAP.CD,1836.45275528993,gdp_per_capita_usd
+KEN,Kenya,2017,NY.GDP.PCAP.CD,1667.48447230835,gdp_per_capita_usd
+KEN,Kenya,2016,NY.GDP.PCAP.CD,1554.12610314423,gdp_per_capita_usd
+KEN,Kenya,2015,NY.GDP.PCAP.CD,1489.11959777284,gdp_per_capita_usd
+KEN,Kenya,2014,NY.GDP.PCAP.CD,1482.81566253497,gdp_per_capita_usd
+KEN,Kenya,2013,NY.GDP.PCAP.CD,1370.87885214659,gdp_per_capita_usd
+KEN,Kenya,2012,NY.GDP.PCAP.CD,1285.00536171512,gdp_per_capita_usd
+KEN,Kenya,2011,NY.GDP.PCAP.CD,1096.14499807675,gdp_per_capita_usd
+KEN,Kenya,2010,NY.GDP.PCAP.CD,1091.51873101194,gdp_per_capita_usd
+RWA,Rwanda,2024,NY.GDP.PCAP.CD,1059.93709298801,gdp_per_capita_usd
+RWA,Rwanda,2023,NY.GDP.PCAP.CD,1061.05788154076,gdp_per_capita_usd
+RWA,Rwanda,2022,NY.GDP.PCAP.CD,1007.05989322914,gdp_per_capita_usd
+RWA,Rwanda,2021,NY.GDP.PCAP.CD,842.581492947672,gdp_per_capita_usd
+RWA,Rwanda,2020,NY.GDP.PCAP.CD,802.638686936204,gdp_per_capita_usd
+RWA,Rwanda,2019,NY.GDP.PCAP.CD,823.355304065304,gdp_per_capita_usd
+RWA,Rwanda,2018,NY.GDP.PCAP.CD,772.754982959354,gdp_per_capita_usd
+RWA,Rwanda,2017,NY.GDP.PCAP.CD,751.049039527547,gdp_per_capita_usd
+RWA,Rwanda,2016,NY.GDP.PCAP.CD,721.258515833094,gdp_per_capita_usd
+RWA,Rwanda,2015,NY.GDP.PCAP.CD,725.691418696952,gdp_per_capita_usd
+RWA,Rwanda,2014,NY.GDP.PCAP.CD,715.36808783393,gdp_per_capita_usd
+RWA,Rwanda,2013,NY.GDP.PCAP.CD,695.397140963607,gdp_per_capita_usd
+RWA,Rwanda,2012,NY.GDP.PCAP.CD,697.760143509565,gdp_per_capita_usd
+RWA,Rwanda,2011,NY.GDP.PCAP.CD,643.356138618166,gdp_per_capita_usd
+RWA,Rwanda,2010,NY.GDP.PCAP.CD,586.599950359877,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2024,NY.GDP.PCAP.CD,629.538899449007,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2023,NY.GDP.PCAP.CD,596.885985135589,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2022,NY.GDP.PCAP.CD,573.141165798229,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2021,NY.GDP.PCAP.CD,549.056994756254,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2020,NY.GDP.PCAP.CD,518.16113333875,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2019,NY.GDP.PCAP.CD,539.954816211694,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2018,NY.GDP.PCAP.CD,509.497273804534,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2017,NY.GDP.PCAP.CD,510.939952317726,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2016,NY.GDP.PCAP.CD,460.928490585175,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2015,NY.GDP.PCAP.CD,445.583080073396,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2014,NY.GDP.PCAP.CD,429.431656725102,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2013,NY.GDP.PCAP.CD,393.398703952979,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2012,NY.GDP.PCAP.CD,350.261946720512,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2011,NY.GDP.PCAP.CD,235.325945610434,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2010,NY.GDP.PCAP.CD,219.202453852397,gdp_per_capita_usd
+SSD,South Sudan,2024,NY.GDP.PCAP.CD,,gdp_per_capita_usd
+SSD,South Sudan,2023,NY.GDP.PCAP.CD,,gdp_per_capita_usd
+SSD,South Sudan,2022,NY.GDP.PCAP.CD,,gdp_per_capita_usd
+SSD,South Sudan,2021,NY.GDP.PCAP.CD,,gdp_per_capita_usd
+SSD,South Sudan,2020,NY.GDP.PCAP.CD,,gdp_per_capita_usd
+SSD,South Sudan,2019,NY.GDP.PCAP.CD,,gdp_per_capita_usd
+SSD,South Sudan,2018,NY.GDP.PCAP.CD,,gdp_per_capita_usd
+SSD,South Sudan,2017,NY.GDP.PCAP.CD,,gdp_per_capita_usd
+SSD,South Sudan,2016,NY.GDP.PCAP.CD,,gdp_per_capita_usd
+SSD,South Sudan,2015,NY.GDP.PCAP.CD,1080.14718624765,gdp_per_capita_usd
+SSD,South Sudan,2014,NY.GDP.PCAP.CD,1242.73450181032,gdp_per_capita_usd
+SSD,South Sudan,2013,NY.GDP.PCAP.CD,1650.18943353528,gdp_per_capita_usd
+SSD,South Sudan,2012,NY.GDP.PCAP.CD,1109.26050083408,gdp_per_capita_usd
+SSD,South Sudan,2011,NY.GDP.PCAP.CD,1448.98435006408,gdp_per_capita_usd
+SSD,South Sudan,2010,NY.GDP.PCAP.CD,1498.27034985194,gdp_per_capita_usd
+TZA,Tanzania,2024,NY.GDP.PCAP.CD,1192.60668945313,gdp_per_capita_usd
+TZA,Tanzania,2023,NY.GDP.PCAP.CD,1224.00219726563,gdp_per_capita_usd
+TZA,Tanzania,2022,NY.GDP.PCAP.CD,1207.52062988281,gdp_per_capita_usd
+TZA,Tanzania,2021,NY.GDP.PCAP.CD,1159.85656738281,gdp_per_capita_usd
+TZA,Tanzania,2020,NY.GDP.PCAP.CD,1117.41528320313,gdp_per_capita_usd
+TZA,Tanzania,2019,NY.GDP.PCAP.CD,1063.32250976563,gdp_per_capita_usd
+TZA,Tanzania,2018,NY.GDP.PCAP.CD,1023.10626220703,gdp_per_capita_usd
+TZA,Tanzania,2017,NY.GDP.PCAP.CD,986.674011230469,gdp_per_capita_usd
+TZA,Tanzania,2016,NY.GDP.PCAP.CD,953.0107421875,gdp_per_capita_usd
+TZA,Tanzania,2015,NY.GDP.PCAP.CD,939.127319335938,gdp_per_capita_usd
+TZA,Tanzania,2014,NY.GDP.PCAP.CD,1022.74841308594,gdp_per_capita_usd
+TZA,Tanzania,2013,NY.GDP.PCAP.CD,963.05712890625,gdp_per_capita_usd
+TZA,Tanzania,2012,NY.GDP.PCAP.CD,861.969909667969,gdp_per_capita_usd
+TZA,Tanzania,2011,NY.GDP.PCAP.CD,775.392761230469,gdp_per_capita_usd
+TZA,Tanzania,2010,NY.GDP.PCAP.CD,736.530151367188,gdp_per_capita_usd
+UGA,Uganda,2024,NY.GDP.PCAP.CD,1077.91278438613,gdp_per_capita_usd
+UGA,Uganda,2023,NY.GDP.PCAP.CD,1002.30913917142,gdp_per_capita_usd
+UGA,Uganda,2022,NY.GDP.PCAP.CD,963.067314117178,gdp_per_capita_usd
+UGA,Uganda,2021,NY.GDP.PCAP.CD,882.791717542504,gdp_per_capita_usd
+UGA,Uganda,2020,NY.GDP.PCAP.CD,845.766463890124,gdp_per_capita_usd
+UGA,Uganda,2019,NY.GDP.PCAP.CD,822.171150036357,gdp_per_capita_usd
+UGA,Uganda,2018,NY.GDP.PCAP.CD,792.16570022814,gdp_per_capita_usd
+UGA,Uganda,2017,NY.GDP.PCAP.CD,765.218332297361,gdp_per_capita_usd
+UGA,Uganda,2016,NY.GDP.PCAP.CD,752.696571725656,gdp_per_capita_usd
+UGA,Uganda,2015,NY.GDP.PCAP.CD,862.934610355811,gdp_per_capita_usd
+UGA,Uganda,2014,NY.GDP.PCAP.CD,896.054795546394,gdp_per_capita_usd
+UGA,Uganda,2013,NY.GDP.PCAP.CD,818.285427416713,gdp_per_capita_usd
+UGA,Uganda,2012,NY.GDP.PCAP.CD,795.222867553127,gdp_per_capita_usd
+UGA,Uganda,2011,NY.GDP.PCAP.CD,835.620060555838,gdp_per_capita_usd
+UGA,Uganda,2010,NY.GDP.PCAP.CD,823.488144282,gdp_per_capita_usd

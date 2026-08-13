@@ -1,0 +1,601 @@
+country_code,country,year,indicator_code,value,indicator_name
+BDI,Burundi,2024,IT.NET.USER.ZS,8.595999718,internet_users_pct
+BDI,Burundi,2023,IT.NET.USER.ZS,7.172299862,internet_users_pct
+BDI,Burundi,2022,IT.NET.USER.ZS,7.144800186,internet_users_pct
+BDI,Burundi,2021,IT.NET.USER.ZS,6.777999878,internet_users_pct
+BDI,Burundi,2020,IT.NET.USER.ZS,6.430099964,internet_users_pct
+BDI,Burundi,2019,IT.NET.USER.ZS,6.072199821,internet_users_pct
+BDI,Burundi,2018,IT.NET.USER.ZS,4.019499779,internet_users_pct
+BDI,Burundi,2017,IT.NET.USER.ZS,2.6607485347534,internet_users_pct
+BDI,Burundi,2016,IT.NET.USER.ZS,2.200000048,internet_users_pct
+BDI,Burundi,2015,IT.NET.USER.ZS,2.0,internet_users_pct
+BDI,Burundi,2014,IT.NET.USER.ZS,1.04239212643994,internet_users_pct
+BDI,Burundi,2013,IT.NET.USER.ZS,1.2642181112,internet_users_pct
+BDI,Burundi,2012,IT.NET.USER.ZS,1.220000029,internet_users_pct
+BDI,Burundi,2011,IT.NET.USER.ZS,1.110000014,internet_users_pct
+BDI,Burundi,2010,IT.NET.USER.ZS,1.0,internet_users_pct
+COD,"Congo, Dem. Rep.",2024,IT.NET.USER.ZS,19.67350006,internet_users_pct
+COD,"Congo, Dem. Rep.",2023,IT.NET.USER.ZS,18.96789932,internet_users_pct
+COD,"Congo, Dem. Rep.",2022,IT.NET.USER.ZS,17.99620056,internet_users_pct
+COD,"Congo, Dem. Rep.",2021,IT.NET.USER.ZS,16.1595993,internet_users_pct
+COD,"Congo, Dem. Rep.",2020,IT.NET.USER.ZS,14.51049995,internet_users_pct
+COD,"Congo, Dem. Rep.",2019,IT.NET.USER.ZS,13.02970028,internet_users_pct
+COD,"Congo, Dem. Rep.",2018,IT.NET.USER.ZS,11.69999981,internet_users_pct
+COD,"Congo, Dem. Rep.",2017,IT.NET.USER.ZS,,internet_users_pct
+COD,"Congo, Dem. Rep.",2016,IT.NET.USER.ZS,10.1,internet_users_pct
+COD,"Congo, Dem. Rep.",2015,IT.NET.USER.ZS,3.799999952,internet_users_pct
+COD,"Congo, Dem. Rep.",2014,IT.NET.USER.ZS,3.0,internet_users_pct
+COD,"Congo, Dem. Rep.",2013,IT.NET.USER.ZS,2.200000048,internet_users_pct
+COD,"Congo, Dem. Rep.",2012,IT.NET.USER.ZS,1.679999948,internet_users_pct
+COD,"Congo, Dem. Rep.",2011,IT.NET.USER.ZS,1.200000048,internet_users_pct
+COD,"Congo, Dem. Rep.",2010,IT.NET.USER.ZS,0.72,internet_users_pct
+KEN,Kenya,2024,IT.NET.USER.ZS,34.97622513,internet_users_pct
+KEN,Kenya,2023,IT.NET.USER.ZS,32.07040024,internet_users_pct
+KEN,Kenya,2022,IT.NET.USER.ZS,29.40589905,internet_users_pct
+KEN,Kenya,2021,IT.NET.USER.ZS,26.96290016,internet_users_pct
+KEN,Kenya,2020,IT.NET.USER.ZS,24.7227993,internet_users_pct
+KEN,Kenya,2019,IT.NET.USER.ZS,22.6687733618171,internet_users_pct
+KEN,Kenya,2018,IT.NET.USER.ZS,19.5,internet_users_pct
+KEN,Kenya,2017,IT.NET.USER.ZS,17.82710075,internet_users_pct
+KEN,Kenya,2016,IT.NET.USER.ZS,16.6,internet_users_pct
+KEN,Kenya,2015,IT.NET.USER.ZS,16.5878548475992,internet_users_pct
+KEN,Kenya,2014,IT.NET.USER.ZS,16.5,internet_users_pct
+KEN,Kenya,2013,IT.NET.USER.ZS,13.0,internet_users_pct
+KEN,Kenya,2012,IT.NET.USER.ZS,10.5,internet_users_pct
+KEN,Kenya,2011,IT.NET.USER.ZS,8.800000191,internet_users_pct
+KEN,Kenya,2010,IT.NET.USER.ZS,7.2,internet_users_pct
+RWA,Rwanda,2024,IT.NET.USER.ZS,31.70330048,internet_users_pct
+RWA,Rwanda,2023,IT.NET.USER.ZS,28.80579948,internet_users_pct
+RWA,Rwanda,2022,IT.NET.USER.ZS,28.01679993,internet_users_pct
+RWA,Rwanda,2021,IT.NET.USER.ZS,24.4416008,internet_users_pct
+RWA,Rwanda,2020,IT.NET.USER.ZS,23.8,internet_users_pct
+RWA,Rwanda,2019,IT.NET.USER.ZS,21.3579998,internet_users_pct
+RWA,Rwanda,2018,IT.NET.USER.ZS,19.16659927,internet_users_pct
+RWA,Rwanda,2017,IT.NET.USER.ZS,17.2,internet_users_pct
+RWA,Rwanda,2016,IT.NET.USER.ZS,14.63710022,internet_users_pct
+RWA,Rwanda,2015,IT.NET.USER.ZS,12.45600033,internet_users_pct
+RWA,Rwanda,2014,IT.NET.USER.ZS,10.60000038,internet_users_pct
+RWA,Rwanda,2013,IT.NET.USER.ZS,9.0,internet_users_pct
+RWA,Rwanda,2012,IT.NET.USER.ZS,8.023900032,internet_users_pct
+RWA,Rwanda,2011,IT.NET.USER.ZS,7.0,internet_users_pct
+RWA,Rwanda,2010,IT.NET.USER.ZS,8.0,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2024,IT.NET.USER.ZS,27.94020081,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2023,IT.NET.USER.ZS,26.12010002,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2022,IT.NET.USER.ZS,27.6,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2021,IT.NET.USER.ZS,23.87479973,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2020,IT.NET.USER.ZS,15.02369976,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2019,IT.NET.USER.ZS,2.731400013,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2018,IT.NET.USER.ZS,,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2017,IT.NET.USER.ZS,,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2016,IT.NET.USER.ZS,1.879999995,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2015,IT.NET.USER.ZS,1.75999999,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2014,IT.NET.USER.ZS,1.629999995,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2013,IT.NET.USER.ZS,1.5,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2012,IT.NET.USER.ZS,1.376700044,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2011,IT.NET.USER.ZS,1.25,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2010,IT.NET.USER.ZS,,internet_users_pct
+SSD,South Sudan,2024,IT.NET.USER.ZS,,internet_users_pct
+SSD,South Sudan,2023,IT.NET.USER.ZS,,internet_users_pct
+SSD,South Sudan,2022,IT.NET.USER.ZS,,internet_users_pct
+SSD,South Sudan,2021,IT.NET.USER.ZS,,internet_users_pct
+SSD,South Sudan,2020,IT.NET.USER.ZS,,internet_users_pct
+SSD,South Sudan,2019,IT.NET.USER.ZS,6.671000004,internet_users_pct
+SSD,South Sudan,2018,IT.NET.USER.ZS,4.800000191,internet_users_pct
+SSD,South Sudan,2017,IT.NET.USER.ZS,4.1,internet_users_pct
+SSD,South Sudan,2016,IT.NET.USER.ZS,3.5,internet_users_pct
+SSD,South Sudan,2015,IT.NET.USER.ZS,3.0,internet_users_pct
+SSD,South Sudan,2014,IT.NET.USER.ZS,2.599999905,internet_users_pct
+SSD,South Sudan,2013,IT.NET.USER.ZS,2.200000048,internet_users_pct
+SSD,South Sudan,2012,IT.NET.USER.ZS,1.5,internet_users_pct
+SSD,South Sudan,2011,IT.NET.USER.ZS,,internet_users_pct
+SSD,South Sudan,2010,IT.NET.USER.ZS,,internet_users_pct
+TZA,Tanzania,2024,IT.NET.USER.ZS,31.16209984,internet_users_pct
+TZA,Tanzania,2023,IT.NET.USER.ZS,28.43190002,internet_users_pct
+TZA,Tanzania,2022,IT.NET.USER.ZS,26.86059952,internet_users_pct
+TZA,Tanzania,2021,IT.NET.USER.ZS,22.87540054,internet_users_pct
+TZA,Tanzania,2020,IT.NET.USER.ZS,19.48139954,internet_users_pct
+TZA,Tanzania,2019,IT.NET.USER.ZS,16.59090042,internet_users_pct
+TZA,Tanzania,2018,IT.NET.USER.ZS,15.49069977,internet_users_pct
+TZA,Tanzania,2017,IT.NET.USER.ZS,14.46339989,internet_users_pct
+TZA,Tanzania,2016,IT.NET.USER.ZS,13.5042328468919,internet_users_pct
+TZA,Tanzania,2015,IT.NET.USER.ZS,10.0,internet_users_pct
+TZA,Tanzania,2014,IT.NET.USER.ZS,7.0,internet_users_pct
+TZA,Tanzania,2013,IT.NET.USER.ZS,4.400000095,internet_users_pct
+TZA,Tanzania,2012,IT.NET.USER.ZS,3.950000048,internet_users_pct
+TZA,Tanzania,2011,IT.NET.USER.ZS,3.200000048,internet_users_pct
+TZA,Tanzania,2010,IT.NET.USER.ZS,2.900000095,internet_users_pct
+UGA,Uganda,2024,IT.NET.USER.ZS,8.949831061,internet_users_pct
+UGA,Uganda,2023,IT.NET.USER.ZS,9.286999702,internet_users_pct
+UGA,Uganda,2022,IT.NET.USER.ZS,9.636899948,internet_users_pct
+UGA,Uganda,2021,IT.NET.USER.ZS,10.0,internet_users_pct
+UGA,Uganda,2020,IT.NET.USER.ZS,7.4,internet_users_pct
+UGA,Uganda,2019,IT.NET.USER.ZS,11.72579956,internet_users_pct
+UGA,Uganda,2018,IT.NET.USER.ZS,9.326299667,internet_users_pct
+UGA,Uganda,2017,IT.NET.USER.ZS,7.417900085,internet_users_pct
+UGA,Uganda,2016,IT.NET.USER.ZS,5.9,internet_users_pct
+UGA,Uganda,2015,IT.NET.USER.ZS,5.699999809,internet_users_pct
+UGA,Uganda,2014,IT.NET.USER.ZS,5.400000095,internet_users_pct
+UGA,Uganda,2013,IT.NET.USER.ZS,5.099999905,internet_users_pct
+UGA,Uganda,2012,IT.NET.USER.ZS,4.800000191,internet_users_pct
+UGA,Uganda,2011,IT.NET.USER.ZS,4.599999905,internet_users_pct
+UGA,Uganda,2010,IT.NET.USER.ZS,4.300000191,internet_users_pct
+BDI,Burundi,2024,IT.CEL.SETS.P2,,mobile_subs_per100
+BDI,Burundi,2023,IT.CEL.SETS.P2,63.1631365759764,mobile_subs_per100
+BDI,Burundi,2022,IT.CEL.SETS.P2,56.2599912004244,mobile_subs_per100
+BDI,Burundi,2021,IT.CEL.SETS.P2,59.700785493419,mobile_subs_per100
+BDI,Burundi,2020,IT.CEL.SETS.P2,52.5571219738138,mobile_subs_per100
+BDI,Burundi,2019,IT.CEL.SETS.P2,53.2995504978403,mobile_subs_per100
+BDI,Burundi,2018,IT.CEL.SETS.P2,53.2736942349584,mobile_subs_per100
+BDI,Burundi,2017,IT.CEL.SETS.P2,51.4533280518012,mobile_subs_per100
+BDI,Burundi,2016,IT.CEL.SETS.P2,47.6697304877258,mobile_subs_per100
+BDI,Burundi,2015,IT.CEL.SETS.P2,45.2379254099088,mobile_subs_per100
+BDI,Burundi,2014,IT.CEL.SETS.P2,29.567783062348,mobile_subs_per100
+BDI,Burundi,2013,IT.CEL.SETS.P2,24.3006814319026,mobile_subs_per100
+BDI,Burundi,2012,IT.CEL.SETS.P2,22.3127768088819,mobile_subs_per100
+BDI,Burundi,2011,IT.CEL.SETS.P2,19.7014852266593,mobile_subs_per100
+BDI,Burundi,2010,IT.CEL.SETS.P2,17.8962195049637,mobile_subs_per100
+COD,"Congo, Dem. Rep.",2024,IT.CEL.SETS.P2,58.532153345468,mobile_subs_per100
+COD,"Congo, Dem. Rep.",2023,IT.CEL.SETS.P2,53.1888827659463,mobile_subs_per100
+COD,"Congo, Dem. Rep.",2022,IT.CEL.SETS.P2,48.6773534153863,mobile_subs_per100
+COD,"Congo, Dem. Rep.",2021,IT.CEL.SETS.P2,47.2882541992485,mobile_subs_per100
+COD,"Congo, Dem. Rep.",2020,IT.CEL.SETS.P2,42.5027574227056,mobile_subs_per100
+COD,"Congo, Dem. Rep.",2019,IT.CEL.SETS.P2,39.9399996397964,mobile_subs_per100
+COD,"Congo, Dem. Rep.",2018,IT.CEL.SETS.P2,40.5014483221793,mobile_subs_per100
+COD,"Congo, Dem. Rep.",2017,IT.CEL.SETS.P2,40.6222618919854,mobile_subs_per100
+COD,"Congo, Dem. Rep.",2016,IT.CEL.SETS.P2,34.4098982787676,mobile_subs_per100
+COD,"Congo, Dem. Rep.",2015,IT.CEL.SETS.P2,46.5879368397055,mobile_subs_per100
+COD,"Congo, Dem. Rep.",2014,IT.CEL.SETS.P2,47.3232446178692,mobile_subs_per100
+COD,"Congo, Dem. Rep.",2013,IT.CEL.SETS.P2,37.2504622843341,mobile_subs_per100
+COD,"Congo, Dem. Rep.",2012,IT.CEL.SETS.P2,27.4285479176207,mobile_subs_per100
+COD,"Congo, Dem. Rep.",2011,IT.CEL.SETS.P2,22.081904226281,mobile_subs_per100
+COD,"Congo, Dem. Rep.",2010,IT.CEL.SETS.P2,17.2401170438218,mobile_subs_per100
+KEN,Kenya,2024,IT.CEL.SETS.P2,126.477706000949,mobile_subs_per100
+KEN,Kenya,2023,IT.CEL.SETS.P2,120.612416887959,mobile_subs_per100
+KEN,Kenya,2022,IT.CEL.SETS.P2,121.168999135357,mobile_subs_per100
+KEN,Kenya,2021,IT.CEL.SETS.P2,122.297519656734,mobile_subs_per100
+KEN,Kenya,2020,IT.CEL.SETS.P2,117.602526394779,mobile_subs_per100
+KEN,Kenya,2019,IT.CEL.SETS.P2,106.547822056778,mobile_subs_per100
+KEN,Kenya,2018,IT.CEL.SETS.P2,98.5944679106884,mobile_subs_per100
+KEN,Kenya,2017,IT.CEL.SETS.P2,87.026530838819,mobile_subs_per100
+KEN,Kenya,2016,IT.CEL.SETS.P2,80.9772361004341,mobile_subs_per100
+KEN,Kenya,2015,IT.CEL.SETS.P2,80.0958263165851,mobile_subs_per100
+KEN,Kenya,2014,IT.CEL.SETS.P2,73.0327455558393,mobile_subs_per100
+KEN,Kenya,2013,IT.CEL.SETS.P2,70.7541086893706,mobile_subs_per100
+KEN,Kenya,2012,IT.CEL.SETS.P2,70.0226527327794,mobile_subs_per100
+KEN,Kenya,2011,IT.CEL.SETS.P2,65.6730161546273,mobile_subs_per100
+KEN,Kenya,2010,IT.CEL.SETS.P2,60.0234402305252,mobile_subs_per100
+RWA,Rwanda,2024,IT.CEL.SETS.P2,93.201462876722,mobile_subs_per100
+RWA,Rwanda,2023,IT.CEL.SETS.P2,91.4622704078141,mobile_subs_per100
+RWA,Rwanda,2022,IT.CEL.SETS.P2,80.5952224850433,mobile_subs_per100
+RWA,Rwanda,2021,IT.CEL.SETS.P2,81.6381635400584,mobile_subs_per100
+RWA,Rwanda,2020,IT.CEL.SETS.P2,81.2378724761376,mobile_subs_per100
+RWA,Rwanda,2019,IT.CEL.SETS.P2,75.5985451901883,mobile_subs_per100
+RWA,Rwanda,2018,IT.CEL.SETS.P2,77.679469147812,mobile_subs_per100
+RWA,Rwanda,2017,IT.CEL.SETS.P2,72.2764598764471,mobile_subs_per100
+RWA,Rwanda,2016,IT.CEL.SETS.P2,74.8502057565523,mobile_subs_per100
+RWA,Rwanda,2015,IT.CEL.SETS.P2,75.2543165296423,mobile_subs_per100
+RWA,Rwanda,2014,IT.CEL.SETS.P2,68.1670448387062,mobile_subs_per100
+RWA,Rwanda,2013,IT.CEL.SETS.P2,60.2988640030865,mobile_subs_per100
+RWA,Rwanda,2012,IT.CEL.SETS.P2,52.5466576287262,mobile_subs_per100
+RWA,Rwanda,2011,IT.CEL.SETS.P2,42.049425685328,mobile_subs_per100
+RWA,Rwanda,2010,IT.CEL.SETS.P2,34.395374562166,mobile_subs_per100
+SOM,"Somalia, Fed. Rep.",2024,IT.CEL.SETS.P2,,mobile_subs_per100
+SOM,"Somalia, Fed. Rep.",2023,IT.CEL.SETS.P2,53.9579646939598,mobile_subs_per100
+SOM,"Somalia, Fed. Rep.",2022,IT.CEL.SETS.P2,49.6800986995936,mobile_subs_per100
+SOM,"Somalia, Fed. Rep.",2021,IT.CEL.SETS.P2,51.2059481348129,mobile_subs_per100
+SOM,"Somalia, Fed. Rep.",2020,IT.CEL.SETS.P2,53.1133178401473,mobile_subs_per100
+SOM,"Somalia, Fed. Rep.",2019,IT.CEL.SETS.P2,51.3194116563494,mobile_subs_per100
+SOM,"Somalia, Fed. Rep.",2018,IT.CEL.SETS.P2,49.5262671956948,mobile_subs_per100
+SOM,"Somalia, Fed. Rep.",2017,IT.CEL.SETS.P2,47.725260177752,mobile_subs_per100
+SOM,"Somalia, Fed. Rep.",2016,IT.CEL.SETS.P2,46.366719307758,mobile_subs_per100
+SOM,"Somalia, Fed. Rep.",2015,IT.CEL.SETS.P2,42.2685278435236,mobile_subs_per100
+SOM,"Somalia, Fed. Rep.",2014,IT.CEL.SETS.P2,41.2309585125849,mobile_subs_per100
+SOM,"Somalia, Fed. Rep.",2013,IT.CEL.SETS.P2,40.2732207402969,mobile_subs_per100
+SOM,"Somalia, Fed. Rep.",2012,IT.CEL.SETS.P2,18.457350680033,mobile_subs_per100
+SOM,"Somalia, Fed. Rep.",2011,IT.CEL.SETS.P2,14.5762796961332,mobile_subs_per100
+SOM,"Somalia, Fed. Rep.",2010,IT.CEL.SETS.P2,5.28635539640489,mobile_subs_per100
+SSD,South Sudan,2024,IT.CEL.SETS.P2,,mobile_subs_per100
+SSD,South Sudan,2023,IT.CEL.SETS.P2,46.6152369503945,mobile_subs_per100
+SSD,South Sudan,2022,IT.CEL.SETS.P2,48.4888320004297,mobile_subs_per100
+SSD,South Sudan,2021,IT.CEL.SETS.P2,30.151042999214,mobile_subs_per100
+SSD,South Sudan,2020,IT.CEL.SETS.P2,,mobile_subs_per100
+SSD,South Sudan,2019,IT.CEL.SETS.P2,21.3171365460584,mobile_subs_per100
+SSD,South Sudan,2018,IT.CEL.SETS.P2,18.9297575209348,mobile_subs_per100
+SSD,South Sudan,2017,IT.CEL.SETS.P2,27.1848244017002,mobile_subs_per100
+SSD,South Sudan,2016,IT.CEL.SETS.P2,24.930513119821,mobile_subs_per100
+SSD,South Sudan,2015,IT.CEL.SETS.P2,26.0993389998038,mobile_subs_per100
+SSD,South Sudan,2014,IT.CEL.SETS.P2,25.599272919722,mobile_subs_per100
+SSD,South Sudan,2013,IT.CEL.SETS.P2,25.5521917559795,mobile_subs_per100
+SSD,South Sudan,2012,IT.CEL.SETS.P2,21.3829367883201,mobile_subs_per100
+SSD,South Sudan,2011,IT.CEL.SETS.P2,17.4959266080871,mobile_subs_per100
+SSD,South Sudan,2010,IT.CEL.SETS.P2,15.3910038351303,mobile_subs_per100
+TZA,Tanzania,2024,IT.CEL.SETS.P2,126.559163217786,mobile_subs_per100
+TZA,Tanzania,2023,IT.CEL.SETS.P2,105.40028112088,mobile_subs_per100
+TZA,Tanzania,2022,IT.CEL.SETS.P2,93.0159746238635,mobile_subs_per100
+TZA,Tanzania,2021,IT.CEL.SETS.P2,86.0162814148027,mobile_subs_per100
+TZA,Tanzania,2020,IT.CEL.SETS.P2,84.0050558283384,mobile_subs_per100
+TZA,Tanzania,2019,IT.CEL.SETS.P2,80.5835569684446,mobile_subs_per100
+TZA,Tanzania,2018,IT.CEL.SETS.P2,75.7301934140355,mobile_subs_per100
+TZA,Tanzania,2017,IT.CEL.SETS.P2,71.7911684370749,mobile_subs_per100
+TZA,Tanzania,2016,IT.CEL.SETS.P2,74.3983656514054,mobile_subs_per100
+TZA,Tanzania,2015,IT.CEL.SETS.P2,76.2492627491202,mobile_subs_per100
+TZA,Tanzania,2014,IT.CEL.SETS.P2,63.2804353521698,mobile_subs_per100
+TZA,Tanzania,2013,IT.CEL.SETS.P2,56.2075025692215,mobile_subs_per100
+TZA,Tanzania,2012,IT.CEL.SETS.P2,57.4558483868666,mobile_subs_per100
+TZA,Tanzania,2011,IT.CEL.SETS.P2,55.7610427273527,mobile_subs_per100
+TZA,Tanzania,2010,IT.CEL.SETS.P2,46.8823991552172,mobile_subs_per100
+UGA,Uganda,2024,IT.CEL.SETS.P2,83.165031466902,mobile_subs_per100
+UGA,Uganda,2023,IT.CEL.SETS.P2,76.2966796632588,mobile_subs_per100
+UGA,Uganda,2022,IT.CEL.SETS.P2,70.1401117953081,mobile_subs_per100
+UGA,Uganda,2021,IT.CEL.SETS.P2,65.6220730009172,mobile_subs_per100
+UGA,Uganda,2020,IT.CEL.SETS.P2,62.2824129624858,mobile_subs_per100
+UGA,Uganda,2019,IT.CEL.SETS.P2,59.0598078769828,mobile_subs_per100
+UGA,Uganda,2018,IT.CEL.SETS.P2,58.8753608703264,mobile_subs_per100
+UGA,Uganda,2017,IT.CEL.SETS.P2,62.0968142578109,mobile_subs_per100
+UGA,Uganda,2016,IT.CEL.SETS.P2,58.8633638178484,mobile_subs_per100
+UGA,Uganda,2015,IT.CEL.SETS.P2,53.8755501186925,mobile_subs_per100
+UGA,Uganda,2014,IT.CEL.SETS.P2,55.9572451997482,mobile_subs_per100
+UGA,Uganda,2013,IT.CEL.SETS.P2,51.1323160552035,mobile_subs_per100
+UGA,Uganda,2012,IT.CEL.SETS.P2,47.6342672974029,mobile_subs_per100
+UGA,Uganda,2011,IT.CEL.SETS.P2,50.0591238800663,mobile_subs_per100
+UGA,Uganda,2010,IT.CEL.SETS.P2,39.6046507276973,mobile_subs_per100
+BDI,Burundi,2024,EG.ELC.ACCS.ZS,20.1,electricity_access_pct
+BDI,Burundi,2023,EG.ELC.ACCS.ZS,11.6,electricity_access_pct
+BDI,Burundi,2022,EG.ELC.ACCS.ZS,10.3,electricity_access_pct
+BDI,Burundi,2021,EG.ELC.ACCS.ZS,10.2,electricity_access_pct
+BDI,Burundi,2020,EG.ELC.ACCS.ZS,9.1,electricity_access_pct
+BDI,Burundi,2019,EG.ELC.ACCS.ZS,9.8,electricity_access_pct
+BDI,Burundi,2018,EG.ELC.ACCS.ZS,9.5,electricity_access_pct
+BDI,Burundi,2017,EG.ELC.ACCS.ZS,9.3,electricity_access_pct
+BDI,Burundi,2016,EG.ELC.ACCS.ZS,8.5,electricity_access_pct
+BDI,Burundi,2015,EG.ELC.ACCS.ZS,7.9,electricity_access_pct
+BDI,Burundi,2014,EG.ELC.ACCS.ZS,7.0,electricity_access_pct
+BDI,Burundi,2013,EG.ELC.ACCS.ZS,6.9,electricity_access_pct
+BDI,Burundi,2012,EG.ELC.ACCS.ZS,6.5,electricity_access_pct
+BDI,Burundi,2011,EG.ELC.ACCS.ZS,6.2,electricity_access_pct
+BDI,Burundi,2010,EG.ELC.ACCS.ZS,5.3,electricity_access_pct
+COD,"Congo, Dem. Rep.",2024,EG.ELC.ACCS.ZS,22.5,electricity_access_pct
+COD,"Congo, Dem. Rep.",2023,EG.ELC.ACCS.ZS,22.1,electricity_access_pct
+COD,"Congo, Dem. Rep.",2022,EG.ELC.ACCS.ZS,21.5,electricity_access_pct
+COD,"Congo, Dem. Rep.",2021,EG.ELC.ACCS.ZS,20.8,electricity_access_pct
+COD,"Congo, Dem. Rep.",2020,EG.ELC.ACCS.ZS,20.1,electricity_access_pct
+COD,"Congo, Dem. Rep.",2019,EG.ELC.ACCS.ZS,19.1,electricity_access_pct
+COD,"Congo, Dem. Rep.",2018,EG.ELC.ACCS.ZS,18.7,electricity_access_pct
+COD,"Congo, Dem. Rep.",2017,EG.ELC.ACCS.ZS,18.0,electricity_access_pct
+COD,"Congo, Dem. Rep.",2016,EG.ELC.ACCS.ZS,17.3,electricity_access_pct
+COD,"Congo, Dem. Rep.",2015,EG.ELC.ACCS.ZS,16.6,electricity_access_pct
+COD,"Congo, Dem. Rep.",2014,EG.ELC.ACCS.ZS,13.5,electricity_access_pct
+COD,"Congo, Dem. Rep.",2013,EG.ELC.ACCS.ZS,15.2,electricity_access_pct
+COD,"Congo, Dem. Rep.",2012,EG.ELC.ACCS.ZS,15.4,electricity_access_pct
+COD,"Congo, Dem. Rep.",2011,EG.ELC.ACCS.ZS,13.7,electricity_access_pct
+COD,"Congo, Dem. Rep.",2010,EG.ELC.ACCS.ZS,13.0,electricity_access_pct
+KEN,Kenya,2024,EG.ELC.ACCS.ZS,77.0,electricity_access_pct
+KEN,Kenya,2023,EG.ELC.ACCS.ZS,76.2,electricity_access_pct
+KEN,Kenya,2022,EG.ELC.ACCS.ZS,76.0,electricity_access_pct
+KEN,Kenya,2021,EG.ELC.ACCS.ZS,76.5,electricity_access_pct
+KEN,Kenya,2020,EG.ELC.ACCS.ZS,71.5,electricity_access_pct
+KEN,Kenya,2019,EG.ELC.ACCS.ZS,69.7,electricity_access_pct
+KEN,Kenya,2018,EG.ELC.ACCS.ZS,61.2,electricity_access_pct
+KEN,Kenya,2017,EG.ELC.ACCS.ZS,55.8,electricity_access_pct
+KEN,Kenya,2016,EG.ELC.ACCS.ZS,53.1,electricity_access_pct
+KEN,Kenya,2015,EG.ELC.ACCS.ZS,41.6,electricity_access_pct
+KEN,Kenya,2014,EG.ELC.ACCS.ZS,36.0,electricity_access_pct
+KEN,Kenya,2013,EG.ELC.ACCS.ZS,40.1,electricity_access_pct
+KEN,Kenya,2012,EG.ELC.ACCS.ZS,38.1,electricity_access_pct
+KEN,Kenya,2011,EG.ELC.ACCS.ZS,36.2,electricity_access_pct
+KEN,Kenya,2010,EG.ELC.ACCS.ZS,19.2,electricity_access_pct
+RWA,Rwanda,2024,EG.ELC.ACCS.ZS,72.0,electricity_access_pct
+RWA,Rwanda,2023,EG.ELC.ACCS.ZS,63.9,electricity_access_pct
+RWA,Rwanda,2022,EG.ELC.ACCS.ZS,50.6,electricity_access_pct
+RWA,Rwanda,2021,EG.ELC.ACCS.ZS,48.7,electricity_access_pct
+RWA,Rwanda,2020,EG.ELC.ACCS.ZS,45.2,electricity_access_pct
+RWA,Rwanda,2019,EG.ELC.ACCS.ZS,46.6,electricity_access_pct
+RWA,Rwanda,2018,EG.ELC.ACCS.ZS,38.0,electricity_access_pct
+RWA,Rwanda,2017,EG.ELC.ACCS.ZS,34.1,electricity_access_pct
+RWA,Rwanda,2016,EG.ELC.ACCS.ZS,29.4,electricity_access_pct
+RWA,Rwanda,2015,EG.ELC.ACCS.ZS,22.8,electricity_access_pct
+RWA,Rwanda,2014,EG.ELC.ACCS.ZS,19.8,electricity_access_pct
+RWA,Rwanda,2013,EG.ELC.ACCS.ZS,15.2,electricity_access_pct
+RWA,Rwanda,2012,EG.ELC.ACCS.ZS,17.5,electricity_access_pct
+RWA,Rwanda,2011,EG.ELC.ACCS.ZS,10.8,electricity_access_pct
+RWA,Rwanda,2010,EG.ELC.ACCS.ZS,9.7,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2024,EG.ELC.ACCS.ZS,54.4,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2023,EG.ELC.ACCS.ZS,50.3,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2022,EG.ELC.ACCS.ZS,48.9,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2021,EG.ELC.ACCS.ZS,49.3,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2020,EG.ELC.ACCS.ZS,49.9,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2019,EG.ELC.ACCS.ZS,49.2,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2018,EG.ELC.ACCS.ZS,50.7,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2017,EG.ELC.ACCS.ZS,52.1,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2016,EG.ELC.ACCS.ZS,51.1,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2015,EG.ELC.ACCS.ZS,51.2,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2014,EG.ELC.ACCS.ZS,51.4,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2013,EG.ELC.ACCS.ZS,51.5,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2012,EG.ELC.ACCS.ZS,51.8,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2011,EG.ELC.ACCS.ZS,52.0,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2010,EG.ELC.ACCS.ZS,52.3,electricity_access_pct
+SSD,South Sudan,2024,EG.ELC.ACCS.ZS,5.4,electricity_access_pct
+SSD,South Sudan,2023,EG.ELC.ACCS.ZS,5.4,electricity_access_pct
+SSD,South Sudan,2022,EG.ELC.ACCS.ZS,8.4,electricity_access_pct
+SSD,South Sudan,2021,EG.ELC.ACCS.ZS,7.7,electricity_access_pct
+SSD,South Sudan,2020,EG.ELC.ACCS.ZS,7.3,electricity_access_pct
+SSD,South Sudan,2019,EG.ELC.ACCS.ZS,6.8,electricity_access_pct
+SSD,South Sudan,2018,EG.ELC.ACCS.ZS,6.3,electricity_access_pct
+SSD,South Sudan,2017,EG.ELC.ACCS.ZS,4.2,electricity_access_pct
+SSD,South Sudan,2016,EG.ELC.ACCS.ZS,5.3,electricity_access_pct
+SSD,South Sudan,2015,EG.ELC.ACCS.ZS,4.8,electricity_access_pct
+SSD,South Sudan,2014,EG.ELC.ACCS.ZS,4.3,electricity_access_pct
+SSD,South Sudan,2013,EG.ELC.ACCS.ZS,3.8,electricity_access_pct
+SSD,South Sudan,2012,EG.ELC.ACCS.ZS,3.3,electricity_access_pct
+SSD,South Sudan,2011,EG.ELC.ACCS.ZS,2.8,electricity_access_pct
+SSD,South Sudan,2010,EG.ELC.ACCS.ZS,1.5,electricity_access_pct
+TZA,Tanzania,2024,EG.ELC.ACCS.ZS,52.4,electricity_access_pct
+TZA,Tanzania,2023,EG.ELC.ACCS.ZS,48.3,electricity_access_pct
+TZA,Tanzania,2022,EG.ELC.ACCS.ZS,45.8,electricity_access_pct
+TZA,Tanzania,2021,EG.ELC.ACCS.ZS,42.7,electricity_access_pct
+TZA,Tanzania,2020,EG.ELC.ACCS.ZS,39.9,electricity_access_pct
+TZA,Tanzania,2019,EG.ELC.ACCS.ZS,37.7,electricity_access_pct
+TZA,Tanzania,2018,EG.ELC.ACCS.ZS,34.9,electricity_access_pct
+TZA,Tanzania,2017,EG.ELC.ACCS.ZS,32.1,electricity_access_pct
+TZA,Tanzania,2016,EG.ELC.ACCS.ZS,32.8,electricity_access_pct
+TZA,Tanzania,2015,EG.ELC.ACCS.ZS,26.2,electricity_access_pct
+TZA,Tanzania,2014,EG.ELC.ACCS.ZS,23.5,electricity_access_pct
+TZA,Tanzania,2013,EG.ELC.ACCS.ZS,16.4,electricity_access_pct
+TZA,Tanzania,2012,EG.ELC.ACCS.ZS,15.3,electricity_access_pct
+TZA,Tanzania,2011,EG.ELC.ACCS.ZS,14.2,electricity_access_pct
+TZA,Tanzania,2010,EG.ELC.ACCS.ZS,14.8,electricity_access_pct
+UGA,Uganda,2024,EG.ELC.ACCS.ZS,55.3,electricity_access_pct
+UGA,Uganda,2023,EG.ELC.ACCS.ZS,51.5,electricity_access_pct
+UGA,Uganda,2022,EG.ELC.ACCS.ZS,47.1,electricity_access_pct
+UGA,Uganda,2021,EG.ELC.ACCS.ZS,45.2,electricity_access_pct
+UGA,Uganda,2020,EG.ELC.ACCS.ZS,42.1,electricity_access_pct
+UGA,Uganda,2019,EG.ELC.ACCS.ZS,41.3,electricity_access_pct
+UGA,Uganda,2018,EG.ELC.ACCS.ZS,41.9,electricity_access_pct
+UGA,Uganda,2017,EG.ELC.ACCS.ZS,32.4,electricity_access_pct
+UGA,Uganda,2016,EG.ELC.ACCS.ZS,26.7,electricity_access_pct
+UGA,Uganda,2015,EG.ELC.ACCS.ZS,18.5,electricity_access_pct
+UGA,Uganda,2014,EG.ELC.ACCS.ZS,20.4,electricity_access_pct
+UGA,Uganda,2013,EG.ELC.ACCS.ZS,13.9,electricity_access_pct
+UGA,Uganda,2012,EG.ELC.ACCS.ZS,20.5,electricity_access_pct
+UGA,Uganda,2011,EG.ELC.ACCS.ZS,14.6,electricity_access_pct
+UGA,Uganda,2010,EG.ELC.ACCS.ZS,12.1,electricity_access_pct
+BDI,Burundi,2024,NY.GDP.PCAP.CD,216.231928531758,gdp_per_capita_usd
+BDI,Burundi,2023,NY.GDP.PCAP.CD,249.795164039029,gdp_per_capita_usd
+BDI,Burundi,2022,NY.GDP.PCAP.CD,301.832255755105,gdp_per_capita_usd
+BDI,Burundi,2021,NY.GDP.PCAP.CD,264.172844085398,gdp_per_capita_usd
+BDI,Burundi,2020,NY.GDP.PCAP.CD,252.702452750006,gdp_per_capita_usd
+BDI,Burundi,2019,NY.GDP.PCAP.CD,234.31061590725,gdp_per_capita_usd
+BDI,Burundi,2018,NY.GDP.PCAP.CD,245.661678332009,gdp_per_capita_usd
+BDI,Burundi,2017,NY.GDP.PCAP.CD,246.060725714184,gdp_per_capita_usd
+BDI,Burundi,2016,NY.GDP.PCAP.CD,232.937812100153,gdp_per_capita_usd
+BDI,Burundi,2015,NY.GDP.PCAP.CD,254.402585226788,gdp_per_capita_usd
+BDI,Burundi,2014,NY.GDP.PCAP.CD,250.544492155185,gdp_per_capita_usd
+BDI,Burundi,2013,NY.GDP.PCAP.CD,234.844770150871,gdp_per_capita_usd
+BDI,Burundi,2012,NY.GDP.PCAP.CD,231.098787811507,gdp_per_capita_usd
+BDI,Burundi,2011,NY.GDP.PCAP.CD,230.069761381132,gdp_per_capita_usd
+BDI,Burundi,2010,NY.GDP.PCAP.CD,216.727705301976,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2024,NY.GDP.PCAP.CD,692.887665085098,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2023,NY.GDP.PCAP.CD,660.21205238997,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2022,NY.GDP.PCAP.CD,687.738587554685,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2021,NY.GDP.PCAP.CD,595.743074403567,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2020,NY.GDP.PCAP.CD,486.425572682256,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2019,NY.GDP.PCAP.CD,504.00419142286,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2018,NY.GDP.PCAP.CD,518.169626875371,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2017,NY.GDP.PCAP.CD,431.052559128788,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2016,NY.GDP.PCAP.CD,459.765036590388,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2015,NY.GDP.PCAP.CD,495.826633014883,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2014,NY.GDP.PCAP.CD,489.175952097319,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2013,NY.GDP.PCAP.CD,460.370334930107,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2012,NY.GDP.PCAP.CD,409.931424783784,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2011,NY.GDP.PCAP.CD,372.514273875789,gdp_per_capita_usd
+COD,"Congo, Dem. Rep.",2010,NY.GDP.PCAP.CD,352.400398754692,gdp_per_capita_usd
+KEN,Kenya,2024,NY.GDP.PCAP.CD,2133.46193404026,gdp_per_capita_usd
+KEN,Kenya,2023,NY.GDP.PCAP.CD,1942.58802756191,gdp_per_capita_usd
+KEN,Kenya,2022,NY.GDP.PCAP.CD,2109.56288513137,gdp_per_capita_usd
+KEN,Kenya,2021,NY.GDP.PCAP.CD,2061.35622089594,gdp_per_capita_usd
+KEN,Kenya,2020,NY.GDP.PCAP.CD,1927.66459027849,gdp_per_capita_usd
+KEN,Kenya,2019,NY.GDP.PCAP.CD,1960.40808854893,gdp_per_capita_usd
+KEN,Kenya,2018,NY.GDP.PCAP.CD,1836.45275528993,gdp_per_capita_usd
+KEN,Kenya,2017,NY.GDP.PCAP.CD,1667.48447230835,gdp_per_capita_usd
+KEN,Kenya,2016,NY.GDP.PCAP.CD,1554.12610314423,gdp_per_capita_usd
+KEN,Kenya,2015,NY.GDP.PCAP.CD,1489.11959777284,gdp_per_capita_usd
+KEN,Kenya,2014,NY.GDP.PCAP.CD,1482.81566253497,gdp_per_capita_usd
+KEN,Kenya,2013,NY.GDP.PCAP.CD,1370.87885214659,gdp_per_capita_usd
+KEN,Kenya,2012,NY.GDP.PCAP.CD,1285.00536171512,gdp_per_capita_usd
+KEN,Kenya,2011,NY.GDP.PCAP.CD,1096.14499807675,gdp_per_capita_usd
+KEN,Kenya,2010,NY.GDP.PCAP.CD,1091.51873101194,gdp_per_capita_usd
+RWA,Rwanda,2024,NY.GDP.PCAP.CD,1059.93709298801,gdp_per_capita_usd
+RWA,Rwanda,2023,NY.GDP.PCAP.CD,1061.05788154076,gdp_per_capita_usd
+RWA,Rwanda,2022,NY.GDP.PCAP.CD,1007.05989322914,gdp_per_capita_usd
+RWA,Rwanda,2021,NY.GDP.PCAP.CD,842.581492947672,gdp_per_capita_usd
+RWA,Rwanda,2020,NY.GDP.PCAP.CD,802.638686936204,gdp_per_capita_usd
+RWA,Rwanda,2019,NY.GDP.PCAP.CD,823.355304065304,gdp_per_capita_usd
+RWA,Rwanda,2018,NY.GDP.PCAP.CD,772.754982959354,gdp_per_capita_usd
+RWA,Rwanda,2017,NY.GDP.PCAP.CD,751.049039527547,gdp_per_capita_usd
+RWA,Rwanda,2016,NY.GDP.PCAP.CD,721.258515833094,gdp_per_capita_usd
+RWA,Rwanda,2015,NY.GDP.PCAP.CD,725.691418696952,gdp_per_capita_usd
+RWA,Rwanda,2014,NY.GDP.PCAP.CD,715.36808783393,gdp_per_capita_usd
+RWA,Rwanda,2013,NY.GDP.PCAP.CD,695.397140963607,gdp_per_capita_usd
+RWA,Rwanda,2012,NY.GDP.PCAP.CD,697.760143509565,gdp_per_capita_usd
+RWA,Rwanda,2011,NY.GDP.PCAP.CD,643.356138618166,gdp_per_capita_usd
+RWA,Rwanda,2010,NY.GDP.PCAP.CD,586.599950359877,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2024,NY.GDP.PCAP.CD,629.538899449007,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2023,NY.GDP.PCAP.CD,596.885985135589,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2022,NY.GDP.PCAP.CD,573.141165798229,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2021,NY.GDP.PCAP.CD,549.056994756254,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2020,NY.GDP.PCAP.CD,518.16113333875,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2019,NY.GDP.PCAP.CD,539.954816211694,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2018,NY.GDP.PCAP.CD,509.497273804534,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2017,NY.GDP.PCAP.CD,510.939952317726,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2016,NY.GDP.PCAP.CD,460.928490585175,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2015,NY.GDP.PCAP.CD,445.583080073396,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2014,NY.GDP.PCAP.CD,429.431656725102,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2013,NY.GDP.PCAP.CD,393.398703952979,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2012,NY.GDP.PCAP.CD,350.261946720512,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2011,NY.GDP.PCAP.CD,235.325945610434,gdp_per_capita_usd
+SOM,"Somalia, Fed. Rep.",2010,NY.GDP.PCAP.CD,219.202453852397,gdp_per_capita_usd
+SSD,South Sudan,2024,NY.GDP.PCAP.CD,,gdp_per_capita_usd
+SSD,South Sudan,2023,NY.GDP.PCAP.CD,,gdp_per_capita_usd
+SSD,South Sudan,2022,NY.GDP.PCAP.CD,,gdp_per_capita_usd
+SSD,South Sudan,2021,NY.GDP.PCAP.CD,,gdp_per_capita_usd
+SSD,South Sudan,2020,NY.GDP.PCAP.CD,,gdp_per_capita_usd
+SSD,South Sudan,2019,NY.GDP.PCAP.CD,,gdp_per_capita_usd
+SSD,South Sudan,2018,NY.GDP.PCAP.CD,,gdp_per_capita_usd
+SSD,South Sudan,2017,NY.GDP.PCAP.CD,,gdp_per_capita_usd
+SSD,South Sudan,2016,NY.GDP.PCAP.CD,,gdp_per_capita_usd
+SSD,South Sudan,2015,NY.GDP.PCAP.CD,1080.14718624765,gdp_per_capita_usd
+SSD,South Sudan,2014,NY.GDP.PCAP.CD,1242.73450181032,gdp_per_capita_usd
+SSD,South Sudan,2013,NY.GDP.PCAP.CD,1650.18943353528,gdp_per_capita_usd
+SSD,South Sudan,2012,NY.GDP.PCAP.CD,1109.26050083408,gdp_per_capita_usd
+SSD,South Sudan,2011,NY.GDP.PCAP.CD,1448.98435006408,gdp_per_capita_usd
+SSD,South Sudan,2010,NY.GDP.PCAP.CD,1498.27034985194,gdp_per_capita_usd
+TZA,Tanzania,2024,NY.GDP.PCAP.CD,1192.60668945313,gdp_per_capita_usd
+TZA,Tanzania,2023,NY.GDP.PCAP.CD,1224.00219726563,gdp_per_capita_usd
+TZA,Tanzania,2022,NY.GDP.PCAP.CD,1207.52062988281,gdp_per_capita_usd
+TZA,Tanzania,2021,NY.GDP.PCAP.CD,1159.85656738281,gdp_per_capita_usd
+TZA,Tanzania,2020,NY.GDP.PCAP.CD,1117.41528320313,gdp_per_capita_usd
+TZA,Tanzania,2019,NY.GDP.PCAP.CD,1063.32250976563,gdp_per_capita_usd
+TZA,Tanzania,2018,NY.GDP.PCAP.CD,1023.10626220703,gdp_per_capita_usd
+TZA,Tanzania,2017,NY.GDP.PCAP.CD,986.674011230469,gdp_per_capita_usd
+TZA,Tanzania,2016,NY.GDP.PCAP.CD,953.0107421875,gdp_per_capita_usd
+TZA,Tanzania,2015,NY.GDP.PCAP.CD,939.127319335938,gdp_per_capita_usd
+TZA,Tanzania,2014,NY.GDP.PCAP.CD,1022.74841308594,gdp_per_capita_usd
+TZA,Tanzania,2013,NY.GDP.PCAP.CD,963.05712890625,gdp_per_capita_usd
+TZA,Tanzania,2012,NY.GDP.PCAP.CD,861.969909667969,gdp_per_capita_usd
+TZA,Tanzania,2011,NY.GDP.PCAP.CD,775.392761230469,gdp_per_capita_usd
+TZA,Tanzania,2010,NY.GDP.PCAP.CD,736.530151367188,gdp_per_capita_usd
+UGA,Uganda,2024,NY.GDP.PCAP.CD,1077.91278438613,gdp_per_capita_usd
+UGA,Uganda,2023,NY.GDP.PCAP.CD,1002.30913917142,gdp_per_capita_usd
+UGA,Uganda,2022,NY.GDP.PCAP.CD,963.067314117178,gdp_per_capita_usd
+UGA,Uganda,2021,NY.GDP.PCAP.CD,882.791717542504,gdp_per_capita_usd
+UGA,Uganda,2020,NY.GDP.PCAP.CD,845.766463890124,gdp_per_capita_usd
+UGA,Uganda,2019,NY.GDP.PCAP.CD,822.171150036357,gdp_per_capita_usd
+UGA,Uganda,2018,NY.GDP.PCAP.CD,792.16570022814,gdp_per_capita_usd
+UGA,Uganda,2017,NY.GDP.PCAP.CD,765.218332297361,gdp_per_capita_usd
+UGA,Uganda,2016,NY.GDP.PCAP.CD,752.696571725656,gdp_per_capita_usd
+UGA,Uganda,2015,NY.GDP.PCAP.CD,862.934610355811,gdp_per_capita_usd
+UGA,Uganda,2014,NY.GDP.PCAP.CD,896.054795546394,gdp_per_capita_usd
+UGA,Uganda,2013,NY.GDP.PCAP.CD,818.285427416713,gdp_per_capita_usd
+UGA,Uganda,2012,NY.GDP.PCAP.CD,795.222867553127,gdp_per_capita_usd
+UGA,Uganda,2011,NY.GDP.PCAP.CD,835.620060555838,gdp_per_capita_usd
+UGA,Uganda,2010,NY.GDP.PCAP.CD,823.488144282,gdp_per_capita_usd
+BDI,Burundi,2024,SP.POP.TOTL,14047786.0,population
+BDI,Burundi,2023,SP.POP.TOTL,13689450.0,population
+BDI,Burundi,2022,SP.POP.TOTL,13321097.0,population
+BDI,Burundi,2021,SP.POP.TOTL,12965481.0,population
+BDI,Burundi,2020,SP.POP.TOTL,12617036.0,population
+BDI,Burundi,2019,SP.POP.TOTL,12255336.0,population
+BDI,Burundi,2018,SP.POP.TOTL,11859446.0,population
+BDI,Burundi,2017,SP.POP.TOTL,11506762.0,population
+BDI,Burundi,2016,SP.POP.TOTL,11239451.0,population
+BDI,Burundi,2015,SP.POP.TOTL,11047580.0,population
+BDI,Burundi,2014,SP.POP.TOTL,10799785.0,population
+BDI,Burundi,2013,SP.POP.TOTL,10439341.0,population
+BDI,Burundi,2012,SP.POP.TOTL,10071028.0,population
+BDI,Burundi,2011,SP.POP.TOTL,9717978.0,population
+BDI,Burundi,2010,SP.POP.TOTL,9376444.0,population
+COD,"Congo, Dem. Rep.",2024,SP.POP.TOTL,109276265.0,population
+COD,"Congo, Dem. Rep.",2023,SP.POP.TOTL,105789731.0,population
+COD,"Congo, Dem. Rep.",2022,SP.POP.TOTL,102396968.0,population
+COD,"Congo, Dem. Rep.",2021,SP.POP.TOTL,99148932.0,population
+COD,"Congo, Dem. Rep.",2020,SP.POP.TOTL,95989998.0,population
+COD,"Congo, Dem. Rep.",2019,SP.POP.TOTL,92947442.0,population
+COD,"Congo, Dem. Rep.",2018,SP.POP.TOTL,90047644.0,population
+COD,"Congo, Dem. Rep.",2017,SP.POP.TOTL,87083398.0,population
+COD,"Congo, Dem. Rep.",2016,SP.POP.TOTL,83956415.0,population
+COD,"Congo, Dem. Rep.",2015,SP.POP.TOTL,81035531.0,population
+COD,"Congo, Dem. Rep.",2014,SP.POP.TOTL,78403242.0,population
+COD,"Congo, Dem. Rep.",2013,SP.POP.TOTL,75789395.0,population
+COD,"Congo, Dem. Rep.",2012,SP.POP.TOTL,73254618.0,population
+COD,"Congo, Dem. Rep.",2011,SP.POP.TOTL,70849311.0,population
+COD,"Congo, Dem. Rep.",2010,SP.POP.TOTL,68563038.0,population
+KEN,Kenya,2024,SP.POP.TOTL,56432944.0,population
+KEN,Kenya,2023,SP.POP.TOTL,55339003.0,population
+KEN,Kenya,2022,SP.POP.TOTL,54252461.0,population
+KEN,Kenya,2021,SP.POP.TOTL,53219166.0,population
+KEN,Kenya,2020,SP.POP.TOTL,52217334.0,population
+KEN,Kenya,2019,SP.POP.TOTL,51202827.0,population
+KEN,Kenya,2018,SP.POP.TOTL,50207107.0,population
+KEN,Kenya,2017,SP.POP.TOTL,49197766.0,population
+KEN,Kenya,2016,SP.POP.TOTL,48139687.0,population
+KEN,Kenya,2015,SP.POP.TOTL,47088526.0,population
+KEN,Kenya,2014,SP.POP.TOTL,46051440.0,population
+KEN,Kenya,2013,SP.POP.TOTL,44986791.0,population
+KEN,Kenya,2012,SP.POP.TOTL,43888303.0,population
+KEN,Kenya,2011,SP.POP.TOTL,42758461.0,population
+KEN,Kenya,2010,SP.POP.TOTL,41598567.0,population
+RWA,Rwanda,2024,SP.POP.TOTL,14256567.0,population
+RWA,Rwanda,2023,SP.POP.TOTL,13954471.0,population
+RWA,Rwanda,2022,SP.POP.TOTL,13651030.0,population
+RWA,Rwanda,2021,SP.POP.TOTL,13355260.0,population
+RWA,Rwanda,2020,SP.POP.TOTL,13065837.0,population
+RWA,Rwanda,2019,SP.POP.TOTL,12776103.0,population
+RWA,Rwanda,2018,SP.POP.TOTL,12487996.0,population
+RWA,Rwanda,2017,SP.POP.TOTL,12202060.0,population
+RWA,Rwanda,2016,SP.POP.TOTL,11919183.0,population
+RWA,Rwanda,2015,SP.POP.TOTL,11640022.0,population
+RWA,Rwanda,2014,SP.POP.TOTL,11364757.0,population
+RWA,Rwanda,2013,SP.POP.TOTL,11093340.0,population
+RWA,Rwanda,2012,SP.POP.TOTL,10829901.0,population
+RWA,Rwanda,2011,SP.POP.TOTL,10573733.0,population
+RWA,Rwanda,2010,SP.POP.TOTL,10317553.0,population
+SOM,"Somalia, Fed. Rep.",2024,SP.POP.TOTL,19009151.0,population
+SOM,"Somalia, Fed. Rep.",2023,SP.POP.TOTL,18358615.0,population
+SOM,"Somalia, Fed. Rep.",2022,SP.POP.TOTL,17801897.0,population
+SOM,"Somalia, Fed. Rep.",2021,SP.POP.TOTL,17271431.0,population
+SOM,"Somalia, Fed. Rep.",2020,SP.POP.TOTL,16651191.0,population
+SOM,"Somalia, Fed. Rep.",2019,SP.POP.TOTL,16030971.0,population
+SOM,"Somalia, Fed. Rep.",2018,SP.POP.TOTL,15452487.0,population
+SOM,"Somalia, Fed. Rep.",2017,SP.POP.TOTL,14916629.0,population
+SOM,"Somalia, Fed. Rep.",2016,SP.POP.TOTL,14348740.0,population
+SOM,"Somalia, Fed. Rep.",2015,SP.POP.TOTL,13806963.0,population
+SOM,"Somalia, Fed. Rep.",2014,SP.POP.TOTL,13339491.0,population
+SOM,"Somalia, Fed. Rep.",2013,SP.POP.TOTL,12869594.0,population
+SOM,"Somalia, Fed. Rep.",2012,SP.POP.TOTL,12461160.0,population
+SOM,"Somalia, Fed. Rep.",2011,SP.POP.TOTL,12348830.0,population
+SOM,"Somalia, Fed. Rep.",2010,SP.POP.TOTL,12261756.0,population
+SSD,South Sudan,2024,SP.POP.TOTL,11943408.0,population
+SSD,South Sudan,2023,SP.POP.TOTL,11483374.0,population
+SSD,South Sudan,2022,SP.POP.TOTL,11021177.0,population
+SSD,South Sudan,2021,SP.POP.TOTL,10865780.0,population
+SSD,South Sudan,2020,SP.POP.TOTL,10698467.0,population
+SSD,South Sudan,2019,SP.POP.TOTL,10423384.0,population
+SSD,South Sudan,2018,SP.POP.TOTL,10122977.0,population
+SSD,South Sudan,2017,SP.POP.TOTL,10259154.0,population
+SSD,South Sudan,2016,SP.POP.TOTL,10830102.0,population
+SSD,South Sudan,2015,SP.POP.TOTL,11107561.0,population
+SSD,South Sudan,2014,SP.POP.TOTL,11235073.0,population
+SSD,South Sudan,2013,SP.POP.TOTL,11166275.0,population
+SSD,South Sudan,2012,SP.POP.TOTL,10756240.0,population
+SSD,South Sudan,2011,SP.POP.TOTL,10288109.0,population
+SSD,South Sudan,2010,SP.POP.TOTL,9745953.0,population
+TZA,Tanzania,2024,SP.POP.TOTL,68560157.0,population
+TZA,Tanzania,2023,SP.POP.TOTL,66617606.0,population
+TZA,Tanzania,2022,SP.POP.TOTL,64711821.0,population
+TZA,Tanzania,2021,SP.POP.TOTL,62830412.0,population
+TZA,Tanzania,2020,SP.POP.TOTL,60972798.0,population
+TZA,Tanzania,2019,SP.POP.TOTL,59174891.0,population
+TZA,Tanzania,2018,SP.POP.TOTL,57437145.0,population
+TZA,Tanzania,2017,SP.POP.TOTL,55652890.0,population
+TZA,Tanzania,2016,SP.POP.TOTL,53824013.0,population
+TZA,Tanzania,2015,SP.POP.TOTL,52020962.0,population
+TZA,Tanzania,2014,SP.POP.TOTL,50351512.0,population
+TZA,Tanzania,2013,SP.POP.TOTL,48824128.0,population
+TZA,Tanzania,2012,SP.POP.TOTL,47374260.0,population
+TZA,Tanzania,2011,SP.POP.TOTL,46029367.0,population
+TZA,Tanzania,2010,SP.POP.TOTL,44758488.0,population
+UGA,Uganda,2024,SP.POP.TOTL,50015092.0,population
+UGA,Uganda,2023,SP.POP.TOTL,48656601.0,population
+UGA,Uganda,2022,SP.POP.TOTL,47312719.0,population
+UGA,Uganda,2021,SP.POP.TOTL,45910930.0,population
+UGA,Uganda,2020,SP.POP.TOTL,44457152.0,population
+UGA,Uganda,2019,SP.POP.TOTL,42999637.0,population
+UGA,Uganda,2018,SP.POP.TOTL,41565831.0,population
+UGA,Uganda,2017,SP.POP.TOTL,40177388.0,population
+UGA,Uganda,2016,SP.POP.TOTL,38799152.0,population
+UGA,Uganda,2015,SP.POP.TOTL,37531446.0,population
+UGA,Uganda,2014,SP.POP.TOTL,36395539.0,population
+UGA,Uganda,2013,SP.POP.TOTL,35337042.0,population
+UGA,Uganda,2012,SP.POP.TOTL,34337438.0,population
+UGA,Uganda,2011,SP.POP.TOTL,33354543.0,population
+UGA,Uganda,2010,SP.POP.TOTL,32390802.0,population
