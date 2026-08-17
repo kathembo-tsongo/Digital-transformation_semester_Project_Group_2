@@ -65,7 +65,7 @@ This project retrieves, cleans, and analyzes World Bank indicator data (2010–2
 | _Kathembo Tsongo 112721_ | _Repos creation, Set the working Environment, Data Preparation from the WB API_ |
 | _Sarah Mongare 133834_ | _Questions 1 and 2, Powerpoint_ |
 | _David Gathage 223405_ | DQA, cleaning, and exploratory data analysis |
-| _Mark_ | _Questions 5 and 6_ |
+| _Mark Murungi 98283_ | _Questions 5 and 6_ |
 | _Neville Masheti_ | _Interactive Dashboard_ |
 
 ## How to Run
