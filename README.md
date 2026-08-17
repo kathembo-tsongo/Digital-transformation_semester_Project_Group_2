@@ -55,7 +55,7 @@ This project retrieves, cleans, and analyzes World Bank indicator data (2010–2
 - [x] Raw JSON data (`raw_data.json`)
 - [x] Cleaned CSV dataset (`panel_clean.csv`)
 - [ ] Interactive dashboard
-- [ ] Presentation slides
+- [x] Presentation slides
 - [ ] Group member contributions
 
 ## Group Members
