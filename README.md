@@ -15,6 +15,10 @@ This project retrieves, cleans, and analyzes World Bank indicator data (2010–2
 | `IT.CEL.SETS.P2` | Mobile cellular subscriptions (per 100 people) |
 | `EG.ELC.ACCS.ZS` | Access to electricity (% of population) |
 
+## Link to Recording
+
+View the group explanation of the project on the short link - http://tiny.cc/grp2-analytics
+
 ## Research Questions
 
 1. Which East African country has experienced the highest growth in internet users between 2010 and 2024?
