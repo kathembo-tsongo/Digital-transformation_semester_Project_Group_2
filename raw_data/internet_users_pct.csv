@@ -1,0 +1,121 @@
+country_code,country,year,indicator_code,value,indicator_name
+BDI,Burundi,2024,IT.NET.USER.ZS,8.595999718,internet_users_pct
+BDI,Burundi,2023,IT.NET.USER.ZS,7.172299862,internet_users_pct
+BDI,Burundi,2022,IT.NET.USER.ZS,7.144800186,internet_users_pct
+BDI,Burundi,2021,IT.NET.USER.ZS,6.777999878,internet_users_pct
+BDI,Burundi,2020,IT.NET.USER.ZS,6.430099964,internet_users_pct
+BDI,Burundi,2019,IT.NET.USER.ZS,6.072199821,internet_users_pct
+BDI,Burundi,2018,IT.NET.USER.ZS,4.019499779,internet_users_pct
+BDI,Burundi,2017,IT.NET.USER.ZS,2.6607485347534,internet_users_pct
+BDI,Burundi,2016,IT.NET.USER.ZS,2.200000048,internet_users_pct
+BDI,Burundi,2015,IT.NET.USER.ZS,2.0,internet_users_pct
+BDI,Burundi,2014,IT.NET.USER.ZS,1.04239212643994,internet_users_pct
+BDI,Burundi,2013,IT.NET.USER.ZS,1.2642181112,internet_users_pct
+BDI,Burundi,2012,IT.NET.USER.ZS,1.220000029,internet_users_pct
+BDI,Burundi,2011,IT.NET.USER.ZS,1.110000014,internet_users_pct
+BDI,Burundi,2010,IT.NET.USER.ZS,1.0,internet_users_pct
+COD,"Congo, Dem. Rep.",2024,IT.NET.USER.ZS,19.67350006,internet_users_pct
+COD,"Congo, Dem. Rep.",2023,IT.NET.USER.ZS,18.96789932,internet_users_pct
+COD,"Congo, Dem. Rep.",2022,IT.NET.USER.ZS,17.99620056,internet_users_pct
+COD,"Congo, Dem. Rep.",2021,IT.NET.USER.ZS,16.1595993,internet_users_pct
+COD,"Congo, Dem. Rep.",2020,IT.NET.USER.ZS,14.51049995,internet_users_pct
+COD,"Congo, Dem. Rep.",2019,IT.NET.USER.ZS,13.02970028,internet_users_pct
+COD,"Congo, Dem. Rep.",2018,IT.NET.USER.ZS,11.69999981,internet_users_pct
+COD,"Congo, Dem. Rep.",2017,IT.NET.USER.ZS,,internet_users_pct
+COD,"Congo, Dem. Rep.",2016,IT.NET.USER.ZS,10.1,internet_users_pct
+COD,"Congo, Dem. Rep.",2015,IT.NET.USER.ZS,3.799999952,internet_users_pct
+COD,"Congo, Dem. Rep.",2014,IT.NET.USER.ZS,3.0,internet_users_pct
+COD,"Congo, Dem. Rep.",2013,IT.NET.USER.ZS,2.200000048,internet_users_pct
+COD,"Congo, Dem. Rep.",2012,IT.NET.USER.ZS,1.679999948,internet_users_pct
+COD,"Congo, Dem. Rep.",2011,IT.NET.USER.ZS,1.200000048,internet_users_pct
+COD,"Congo, Dem. Rep.",2010,IT.NET.USER.ZS,0.72,internet_users_pct
+KEN,Kenya,2024,IT.NET.USER.ZS,34.97622513,internet_users_pct
+KEN,Kenya,2023,IT.NET.USER.ZS,32.07040024,internet_users_pct
+KEN,Kenya,2022,IT.NET.USER.ZS,29.40589905,internet_users_pct
+KEN,Kenya,2021,IT.NET.USER.ZS,26.96290016,internet_users_pct
+KEN,Kenya,2020,IT.NET.USER.ZS,24.7227993,internet_users_pct
+KEN,Kenya,2019,IT.NET.USER.ZS,22.6687733618171,internet_users_pct
+KEN,Kenya,2018,IT.NET.USER.ZS,19.5,internet_users_pct
+KEN,Kenya,2017,IT.NET.USER.ZS,17.82710075,internet_users_pct
+KEN,Kenya,2016,IT.NET.USER.ZS,16.6,internet_users_pct
+KEN,Kenya,2015,IT.NET.USER.ZS,16.5878548475992,internet_users_pct
+KEN,Kenya,2014,IT.NET.USER.ZS,16.5,internet_users_pct
+KEN,Kenya,2013,IT.NET.USER.ZS,13.0,internet_users_pct
+KEN,Kenya,2012,IT.NET.USER.ZS,10.5,internet_users_pct
+KEN,Kenya,2011,IT.NET.USER.ZS,8.800000191,internet_users_pct
+KEN,Kenya,2010,IT.NET.USER.ZS,7.2,internet_users_pct
+RWA,Rwanda,2024,IT.NET.USER.ZS,31.70330048,internet_users_pct
+RWA,Rwanda,2023,IT.NET.USER.ZS,28.80579948,internet_users_pct
+RWA,Rwanda,2022,IT.NET.USER.ZS,28.01679993,internet_users_pct
+RWA,Rwanda,2021,IT.NET.USER.ZS,24.4416008,internet_users_pct
+RWA,Rwanda,2020,IT.NET.USER.ZS,23.8,internet_users_pct
+RWA,Rwanda,2019,IT.NET.USER.ZS,21.3579998,internet_users_pct
+RWA,Rwanda,2018,IT.NET.USER.ZS,19.16659927,internet_users_pct
+RWA,Rwanda,2017,IT.NET.USER.ZS,17.2,internet_users_pct
+RWA,Rwanda,2016,IT.NET.USER.ZS,14.63710022,internet_users_pct
+RWA,Rwanda,2015,IT.NET.USER.ZS,12.45600033,internet_users_pct
+RWA,Rwanda,2014,IT.NET.USER.ZS,10.60000038,internet_users_pct
+RWA,Rwanda,2013,IT.NET.USER.ZS,9.0,internet_users_pct
+RWA,Rwanda,2012,IT.NET.USER.ZS,8.023900032,internet_users_pct
+RWA,Rwanda,2011,IT.NET.USER.ZS,7.0,internet_users_pct
+RWA,Rwanda,2010,IT.NET.USER.ZS,8.0,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2024,IT.NET.USER.ZS,27.94020081,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2023,IT.NET.USER.ZS,26.12010002,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2022,IT.NET.USER.ZS,27.6,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2021,IT.NET.USER.ZS,23.87479973,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2020,IT.NET.USER.ZS,15.02369976,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2019,IT.NET.USER.ZS,2.731400013,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2018,IT.NET.USER.ZS,,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2017,IT.NET.USER.ZS,,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2016,IT.NET.USER.ZS,1.879999995,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2015,IT.NET.USER.ZS,1.75999999,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2014,IT.NET.USER.ZS,1.629999995,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2013,IT.NET.USER.ZS,1.5,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2012,IT.NET.USER.ZS,1.376700044,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2011,IT.NET.USER.ZS,1.25,internet_users_pct
+SOM,"Somalia, Fed. Rep.",2010,IT.NET.USER.ZS,,internet_users_pct
+SSD,South Sudan,2024,IT.NET.USER.ZS,,internet_users_pct
+SSD,South Sudan,2023,IT.NET.USER.ZS,,internet_users_pct
+SSD,South Sudan,2022,IT.NET.USER.ZS,,internet_users_pct
+SSD,South Sudan,2021,IT.NET.USER.ZS,,internet_users_pct
+SSD,South Sudan,2020,IT.NET.USER.ZS,,internet_users_pct
+SSD,South Sudan,2019,IT.NET.USER.ZS,6.671000004,internet_users_pct
+SSD,South Sudan,2018,IT.NET.USER.ZS,4.800000191,internet_users_pct
+SSD,South Sudan,2017,IT.NET.USER.ZS,4.1,internet_users_pct
+SSD,South Sudan,2016,IT.NET.USER.ZS,3.5,internet_users_pct
+SSD,South Sudan,2015,IT.NET.USER.ZS,3.0,internet_users_pct
+SSD,South Sudan,2014,IT.NET.USER.ZS,2.599999905,internet_users_pct
+SSD,South Sudan,2013,IT.NET.USER.ZS,2.200000048,internet_users_pct
+SSD,South Sudan,2012,IT.NET.USER.ZS,1.5,internet_users_pct
+SSD,South Sudan,2011,IT.NET.USER.ZS,,internet_users_pct
+SSD,South Sudan,2010,IT.NET.USER.ZS,,internet_users_pct
+TZA,Tanzania,2024,IT.NET.USER.ZS,31.16209984,internet_users_pct
+TZA,Tanzania,2023,IT.NET.USER.ZS,28.43190002,internet_users_pct
+TZA,Tanzania,2022,IT.NET.USER.ZS,26.86059952,internet_users_pct
+TZA,Tanzania,2021,IT.NET.USER.ZS,22.87540054,internet_users_pct
+TZA,Tanzania,2020,IT.NET.USER.ZS,19.48139954,internet_users_pct
+TZA,Tanzania,2019,IT.NET.USER.ZS,16.59090042,internet_users_pct
+TZA,Tanzania,2018,IT.NET.USER.ZS,15.49069977,internet_users_pct
+TZA,Tanzania,2017,IT.NET.USER.ZS,14.46339989,internet_users_pct
+TZA,Tanzania,2016,IT.NET.USER.ZS,13.5042328468919,internet_users_pct
+TZA,Tanzania,2015,IT.NET.USER.ZS,10.0,internet_users_pct
+TZA,Tanzania,2014,IT.NET.USER.ZS,7.0,internet_users_pct
+TZA,Tanzania,2013,IT.NET.USER.ZS,4.400000095,internet_users_pct
+TZA,Tanzania,2012,IT.NET.USER.ZS,3.950000048,internet_users_pct
+TZA,Tanzania,2011,IT.NET.USER.ZS,3.200000048,internet_users_pct
+TZA,Tanzania,2010,IT.NET.USER.ZS,2.900000095,internet_users_pct
+UGA,Uganda,2024,IT.NET.USER.ZS,8.949831061,internet_users_pct
+UGA,Uganda,2023,IT.NET.USER.ZS,9.286999702,internet_users_pct
+UGA,Uganda,2022,IT.NET.USER.ZS,9.636899948,internet_users_pct
+UGA,Uganda,2021,IT.NET.USER.ZS,10.0,internet_users_pct
+UGA,Uganda,2020,IT.NET.USER.ZS,7.4,internet_users_pct
+UGA,Uganda,2019,IT.NET.USER.ZS,11.72579956,internet_users_pct
+UGA,Uganda,2018,IT.NET.USER.ZS,9.326299667,internet_users_pct
+UGA,Uganda,2017,IT.NET.USER.ZS,7.417900085,internet_users_pct
+UGA,Uganda,2016,IT.NET.USER.ZS,5.9,internet_users_pct
+UGA,Uganda,2015,IT.NET.USER.ZS,5.699999809,internet_users_pct
+UGA,Uganda,2014,IT.NET.USER.ZS,5.400000095,internet_users_pct
+UGA,Uganda,2013,IT.NET.USER.ZS,5.099999905,internet_users_pct
+UGA,Uganda,2012,IT.NET.USER.ZS,4.800000191,internet_users_pct
+UGA,Uganda,2011,IT.NET.USER.ZS,4.599999905,internet_users_pct
+UGA,Uganda,2010,IT.NET.USER.ZS,4.300000191,internet_users_pct

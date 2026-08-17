@@ -1,0 +1,121 @@
+country_code,country,year,indicator_code,value,indicator_name
+BDI,Burundi,2024,EG.ELC.ACCS.ZS,20.1,electricity_access_pct
+BDI,Burundi,2023,EG.ELC.ACCS.ZS,11.6,electricity_access_pct
+BDI,Burundi,2022,EG.ELC.ACCS.ZS,10.3,electricity_access_pct
+BDI,Burundi,2021,EG.ELC.ACCS.ZS,10.2,electricity_access_pct
+BDI,Burundi,2020,EG.ELC.ACCS.ZS,9.1,electricity_access_pct
+BDI,Burundi,2019,EG.ELC.ACCS.ZS,9.8,electricity_access_pct
+BDI,Burundi,2018,EG.ELC.ACCS.ZS,9.5,electricity_access_pct
+BDI,Burundi,2017,EG.ELC.ACCS.ZS,9.3,electricity_access_pct
+BDI,Burundi,2016,EG.ELC.ACCS.ZS,8.5,electricity_access_pct
+BDI,Burundi,2015,EG.ELC.ACCS.ZS,7.9,electricity_access_pct
+BDI,Burundi,2014,EG.ELC.ACCS.ZS,7.0,electricity_access_pct
+BDI,Burundi,2013,EG.ELC.ACCS.ZS,6.9,electricity_access_pct
+BDI,Burundi,2012,EG.ELC.ACCS.ZS,6.5,electricity_access_pct
+BDI,Burundi,2011,EG.ELC.ACCS.ZS,6.2,electricity_access_pct
+BDI,Burundi,2010,EG.ELC.ACCS.ZS,5.3,electricity_access_pct
+COD,"Congo, Dem. Rep.",2024,EG.ELC.ACCS.ZS,22.5,electricity_access_pct
+COD,"Congo, Dem. Rep.",2023,EG.ELC.ACCS.ZS,22.1,electricity_access_pct
+COD,"Congo, Dem. Rep.",2022,EG.ELC.ACCS.ZS,21.5,electricity_access_pct
+COD,"Congo, Dem. Rep.",2021,EG.ELC.ACCS.ZS,20.8,electricity_access_pct
+COD,"Congo, Dem. Rep.",2020,EG.ELC.ACCS.ZS,20.1,electricity_access_pct
+COD,"Congo, Dem. Rep.",2019,EG.ELC.ACCS.ZS,19.1,electricity_access_pct
+COD,"Congo, Dem. Rep.",2018,EG.ELC.ACCS.ZS,18.7,electricity_access_pct
+COD,"Congo, Dem. Rep.",2017,EG.ELC.ACCS.ZS,18.0,electricity_access_pct
+COD,"Congo, Dem. Rep.",2016,EG.ELC.ACCS.ZS,17.3,electricity_access_pct
+COD,"Congo, Dem. Rep.",2015,EG.ELC.ACCS.ZS,16.6,electricity_access_pct
+COD,"Congo, Dem. Rep.",2014,EG.ELC.ACCS.ZS,13.5,electricity_access_pct
+COD,"Congo, Dem. Rep.",2013,EG.ELC.ACCS.ZS,15.2,electricity_access_pct
+COD,"Congo, Dem. Rep.",2012,EG.ELC.ACCS.ZS,15.4,electricity_access_pct
+COD,"Congo, Dem. Rep.",2011,EG.ELC.ACCS.ZS,13.7,electricity_access_pct
+COD,"Congo, Dem. Rep.",2010,EG.ELC.ACCS.ZS,13.0,electricity_access_pct
+KEN,Kenya,2024,EG.ELC.ACCS.ZS,77.0,electricity_access_pct
+KEN,Kenya,2023,EG.ELC.ACCS.ZS,76.2,electricity_access_pct
+KEN,Kenya,2022,EG.ELC.ACCS.ZS,76.0,electricity_access_pct
+KEN,Kenya,2021,EG.ELC.ACCS.ZS,76.5,electricity_access_pct
+KEN,Kenya,2020,EG.ELC.ACCS.ZS,71.5,electricity_access_pct
+KEN,Kenya,2019,EG.ELC.ACCS.ZS,69.7,electricity_access_pct
+KEN,Kenya,2018,EG.ELC.ACCS.ZS,61.2,electricity_access_pct
+KEN,Kenya,2017,EG.ELC.ACCS.ZS,55.8,electricity_access_pct
+KEN,Kenya,2016,EG.ELC.ACCS.ZS,53.1,electricity_access_pct
+KEN,Kenya,2015,EG.ELC.ACCS.ZS,41.6,electricity_access_pct
+KEN,Kenya,2014,EG.ELC.ACCS.ZS,36.0,electricity_access_pct
+KEN,Kenya,2013,EG.ELC.ACCS.ZS,40.1,electricity_access_pct
+KEN,Kenya,2012,EG.ELC.ACCS.ZS,38.1,electricity_access_pct
+KEN,Kenya,2011,EG.ELC.ACCS.ZS,36.2,electricity_access_pct
+KEN,Kenya,2010,EG.ELC.ACCS.ZS,19.2,electricity_access_pct
+RWA,Rwanda,2024,EG.ELC.ACCS.ZS,72.0,electricity_access_pct
+RWA,Rwanda,2023,EG.ELC.ACCS.ZS,63.9,electricity_access_pct
+RWA,Rwanda,2022,EG.ELC.ACCS.ZS,50.6,electricity_access_pct
+RWA,Rwanda,2021,EG.ELC.ACCS.ZS,48.7,electricity_access_pct
+RWA,Rwanda,2020,EG.ELC.ACCS.ZS,45.2,electricity_access_pct
+RWA,Rwanda,2019,EG.ELC.ACCS.ZS,46.6,electricity_access_pct
+RWA,Rwanda,2018,EG.ELC.ACCS.ZS,38.0,electricity_access_pct
+RWA,Rwanda,2017,EG.ELC.ACCS.ZS,34.1,electricity_access_pct
+RWA,Rwanda,2016,EG.ELC.ACCS.ZS,29.4,electricity_access_pct
+RWA,Rwanda,2015,EG.ELC.ACCS.ZS,22.8,electricity_access_pct
+RWA,Rwanda,2014,EG.ELC.ACCS.ZS,19.8,electricity_access_pct
+RWA,Rwanda,2013,EG.ELC.ACCS.ZS,15.2,electricity_access_pct
+RWA,Rwanda,2012,EG.ELC.ACCS.ZS,17.5,electricity_access_pct
+RWA,Rwanda,2011,EG.ELC.ACCS.ZS,10.8,electricity_access_pct
+RWA,Rwanda,2010,EG.ELC.ACCS.ZS,9.7,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2024,EG.ELC.ACCS.ZS,54.4,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2023,EG.ELC.ACCS.ZS,50.3,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2022,EG.ELC.ACCS.ZS,48.9,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2021,EG.ELC.ACCS.ZS,49.3,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2020,EG.ELC.ACCS.ZS,49.9,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2019,EG.ELC.ACCS.ZS,49.2,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2018,EG.ELC.ACCS.ZS,50.7,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2017,EG.ELC.ACCS.ZS,52.1,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2016,EG.ELC.ACCS.ZS,51.1,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2015,EG.ELC.ACCS.ZS,51.2,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2014,EG.ELC.ACCS.ZS,51.4,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2013,EG.ELC.ACCS.ZS,51.5,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2012,EG.ELC.ACCS.ZS,51.8,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2011,EG.ELC.ACCS.ZS,52.0,electricity_access_pct
+SOM,"Somalia, Fed. Rep.",2010,EG.ELC.ACCS.ZS,52.3,electricity_access_pct
+SSD,South Sudan,2024,EG.ELC.ACCS.ZS,5.4,electricity_access_pct
+SSD,South Sudan,2023,EG.ELC.ACCS.ZS,5.4,electricity_access_pct
+SSD,South Sudan,2022,EG.ELC.ACCS.ZS,8.4,electricity_access_pct
+SSD,South Sudan,2021,EG.ELC.ACCS.ZS,7.7,electricity_access_pct
+SSD,South Sudan,2020,EG.ELC.ACCS.ZS,7.3,electricity_access_pct
+SSD,South Sudan,2019,EG.ELC.ACCS.ZS,6.8,electricity_access_pct
+SSD,South Sudan,2018,EG.ELC.ACCS.ZS,6.3,electricity_access_pct
+SSD,South Sudan,2017,EG.ELC.ACCS.ZS,4.2,electricity_access_pct
+SSD,South Sudan,2016,EG.ELC.ACCS.ZS,5.3,electricity_access_pct
+SSD,South Sudan,2015,EG.ELC.ACCS.ZS,4.8,electricity_access_pct
+SSD,South Sudan,2014,EG.ELC.ACCS.ZS,4.3,electricity_access_pct
+SSD,South Sudan,2013,EG.ELC.ACCS.ZS,3.8,electricity_access_pct
+SSD,South Sudan,2012,EG.ELC.ACCS.ZS,3.3,electricity_access_pct
+SSD,South Sudan,2011,EG.ELC.ACCS.ZS,2.8,electricity_access_pct
+SSD,South Sudan,2010,EG.ELC.ACCS.ZS,1.5,electricity_access_pct
+TZA,Tanzania,2024,EG.ELC.ACCS.ZS,52.4,electricity_access_pct
+TZA,Tanzania,2023,EG.ELC.ACCS.ZS,48.3,electricity_access_pct
+TZA,Tanzania,2022,EG.ELC.ACCS.ZS,45.8,electricity_access_pct
+TZA,Tanzania,2021,EG.ELC.ACCS.ZS,42.7,electricity_access_pct
+TZA,Tanzania,2020,EG.ELC.ACCS.ZS,39.9,electricity_access_pct
+TZA,Tanzania,2019,EG.ELC.ACCS.ZS,37.7,electricity_access_pct
+TZA,Tanzania,2018,EG.ELC.ACCS.ZS,34.9,electricity_access_pct
+TZA,Tanzania,2017,EG.ELC.ACCS.ZS,32.1,electricity_access_pct
+TZA,Tanzania,2016,EG.ELC.ACCS.ZS,32.8,electricity_access_pct
+TZA,Tanzania,2015,EG.ELC.ACCS.ZS,26.2,electricity_access_pct
+TZA,Tanzania,2014,EG.ELC.ACCS.ZS,23.5,electricity_access_pct
+TZA,Tanzania,2013,EG.ELC.ACCS.ZS,16.4,electricity_access_pct
+TZA,Tanzania,2012,EG.ELC.ACCS.ZS,15.3,electricity_access_pct
+TZA,Tanzania,2011,EG.ELC.ACCS.ZS,14.2,electricity_access_pct
+TZA,Tanzania,2010,EG.ELC.ACCS.ZS,14.8,electricity_access_pct
+UGA,Uganda,2024,EG.ELC.ACCS.ZS,55.3,electricity_access_pct
+UGA,Uganda,2023,EG.ELC.ACCS.ZS,51.5,electricity_access_pct
+UGA,Uganda,2022,EG.ELC.ACCS.ZS,47.1,electricity_access_pct
+UGA,Uganda,2021,EG.ELC.ACCS.ZS,45.2,electricity_access_pct
+UGA,Uganda,2020,EG.ELC.ACCS.ZS,42.1,electricity_access_pct
+UGA,Uganda,2019,EG.ELC.ACCS.ZS,41.3,electricity_access_pct
+UGA,Uganda,2018,EG.ELC.ACCS.ZS,41.9,electricity_access_pct
+UGA,Uganda,2017,EG.ELC.ACCS.ZS,32.4,electricity_access_pct
+UGA,Uganda,2016,EG.ELC.ACCS.ZS,26.7,electricity_access_pct
+UGA,Uganda,2015,EG.ELC.ACCS.ZS,18.5,electricity_access_pct
+UGA,Uganda,2014,EG.ELC.ACCS.ZS,20.4,electricity_access_pct
+UGA,Uganda,2013,EG.ELC.ACCS.ZS,13.9,electricity_access_pct
+UGA,Uganda,2012,EG.ELC.ACCS.ZS,20.5,electricity_access_pct
+UGA,Uganda,2011,EG.ELC.ACCS.ZS,14.6,electricity_access_pct
+UGA,Uganda,2010,EG.ELC.ACCS.ZS,12.1,electricity_access_pct

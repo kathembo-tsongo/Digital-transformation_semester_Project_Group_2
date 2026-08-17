@@ -1,0 +1,121 @@
+country_code,country,year,indicator_code,value,indicator_name
+BDI,Burundi,2024,SP.POP.TOTL,14047786,population
+BDI,Burundi,2023,SP.POP.TOTL,13689450,population
+BDI,Burundi,2022,SP.POP.TOTL,13321097,population
+BDI,Burundi,2021,SP.POP.TOTL,12965481,population
+BDI,Burundi,2020,SP.POP.TOTL,12617036,population
+BDI,Burundi,2019,SP.POP.TOTL,12255336,population
+BDI,Burundi,2018,SP.POP.TOTL,11859446,population
+BDI,Burundi,2017,SP.POP.TOTL,11506762,population
+BDI,Burundi,2016,SP.POP.TOTL,11239451,population
+BDI,Burundi,2015,SP.POP.TOTL,11047580,population
+BDI,Burundi,2014,SP.POP.TOTL,10799785,population
+BDI,Burundi,2013,SP.POP.TOTL,10439341,population
+BDI,Burundi,2012,SP.POP.TOTL,10071028,population
+BDI,Burundi,2011,SP.POP.TOTL,9717978,population
+BDI,Burundi,2010,SP.POP.TOTL,9376444,population
+COD,"Congo, Dem. Rep.",2024,SP.POP.TOTL,109276265,population
+COD,"Congo, Dem. Rep.",2023,SP.POP.TOTL,105789731,population
+COD,"Congo, Dem. Rep.",2022,SP.POP.TOTL,102396968,population
+COD,"Congo, Dem. Rep.",2021,SP.POP.TOTL,99148932,population
+COD,"Congo, Dem. Rep.",2020,SP.POP.TOTL,95989998,population
+COD,"Congo, Dem. Rep.",2019,SP.POP.TOTL,92947442,population
+COD,"Congo, Dem. Rep.",2018,SP.POP.TOTL,90047644,population
+COD,"Congo, Dem. Rep.",2017,SP.POP.TOTL,87083398,population
+COD,"Congo, Dem. Rep.",2016,SP.POP.TOTL,83956415,population
+COD,"Congo, Dem. Rep.",2015,SP.POP.TOTL,81035531,population
+COD,"Congo, Dem. Rep.",2014,SP.POP.TOTL,78403242,population
+COD,"Congo, Dem. Rep.",2013,SP.POP.TOTL,75789395,population
+COD,"Congo, Dem. Rep.",2012,SP.POP.TOTL,73254618,population
+COD,"Congo, Dem. Rep.",2011,SP.POP.TOTL,70849311,population
+COD,"Congo, Dem. Rep.",2010,SP.POP.TOTL,68563038,population
+KEN,Kenya,2024,SP.POP.TOTL,56432944,population
+KEN,Kenya,2023,SP.POP.TOTL,55339003,population
+KEN,Kenya,2022,SP.POP.TOTL,54252461,population
+KEN,Kenya,2021,SP.POP.TOTL,53219166,population
+KEN,Kenya,2020,SP.POP.TOTL,52217334,population
+KEN,Kenya,2019,SP.POP.TOTL,51202827,population
+KEN,Kenya,2018,SP.POP.TOTL,50207107,population
+KEN,Kenya,2017,SP.POP.TOTL,49197766,population
+KEN,Kenya,2016,SP.POP.TOTL,48139687,population
+KEN,Kenya,2015,SP.POP.TOTL,47088526,population
+KEN,Kenya,2014,SP.POP.TOTL,46051440,population
+KEN,Kenya,2013,SP.POP.TOTL,44986791,population
+KEN,Kenya,2012,SP.POP.TOTL,43888303,population
+KEN,Kenya,2011,SP.POP.TOTL,42758461,population
+KEN,Kenya,2010,SP.POP.TOTL,41598567,population
+RWA,Rwanda,2024,SP.POP.TOTL,14256567,population
+RWA,Rwanda,2023,SP.POP.TOTL,13954471,population
+RWA,Rwanda,2022,SP.POP.TOTL,13651030,population
+RWA,Rwanda,2021,SP.POP.TOTL,13355260,population
+RWA,Rwanda,2020,SP.POP.TOTL,13065837,population
+RWA,Rwanda,2019,SP.POP.TOTL,12776103,population
+RWA,Rwanda,2018,SP.POP.TOTL,12487996,population
+RWA,Rwanda,2017,SP.POP.TOTL,12202060,population
+RWA,Rwanda,2016,SP.POP.TOTL,11919183,population
+RWA,Rwanda,2015,SP.POP.TOTL,11640022,population
+RWA,Rwanda,2014,SP.POP.TOTL,11364757,population
+RWA,Rwanda,2013,SP.POP.TOTL,11093340,population
+RWA,Rwanda,2012,SP.POP.TOTL,10829901,population
+RWA,Rwanda,2011,SP.POP.TOTL,10573733,population
+RWA,Rwanda,2010,SP.POP.TOTL,10317553,population
+SOM,"Somalia, Fed. Rep.",2024,SP.POP.TOTL,19009151,population
+SOM,"Somalia, Fed. Rep.",2023,SP.POP.TOTL,18358615,population
+SOM,"Somalia, Fed. Rep.",2022,SP.POP.TOTL,17801897,population
+SOM,"Somalia, Fed. Rep.",2021,SP.POP.TOTL,17271431,population
+SOM,"Somalia, Fed. Rep.",2020,SP.POP.TOTL,16651191,population
+SOM,"Somalia, Fed. Rep.",2019,SP.POP.TOTL,16030971,population
+SOM,"Somalia, Fed. Rep.",2018,SP.POP.TOTL,15452487,population
+SOM,"Somalia, Fed. Rep.",2017,SP.POP.TOTL,14916629,population
+SOM,"Somalia, Fed. Rep.",2016,SP.POP.TOTL,14348740,population
+SOM,"Somalia, Fed. Rep.",2015,SP.POP.TOTL,13806963,population
+SOM,"Somalia, Fed. Rep.",2014,SP.POP.TOTL,13339491,population
+SOM,"Somalia, Fed. Rep.",2013,SP.POP.TOTL,12869594,population
+SOM,"Somalia, Fed. Rep.",2012,SP.POP.TOTL,12461160,population
+SOM,"Somalia, Fed. Rep.",2011,SP.POP.TOTL,12348830,population
+SOM,"Somalia, Fed. Rep.",2010,SP.POP.TOTL,12261756,population
+SSD,South Sudan,2024,SP.POP.TOTL,11943408,population
+SSD,South Sudan,2023,SP.POP.TOTL,11483374,population
+SSD,South Sudan,2022,SP.POP.TOTL,11021177,population
+SSD,South Sudan,2021,SP.POP.TOTL,10865780,population
+SSD,South Sudan,2020,SP.POP.TOTL,10698467,population
+SSD,South Sudan,2019,SP.POP.TOTL,10423384,population
+SSD,South Sudan,2018,SP.POP.TOTL,10122977,population
+SSD,South Sudan,2017,SP.POP.TOTL,10259154,population
+SSD,South Sudan,2016,SP.POP.TOTL,10830102,population
+SSD,South Sudan,2015,SP.POP.TOTL,11107561,population
+SSD,South Sudan,2014,SP.POP.TOTL,11235073,population
+SSD,South Sudan,2013,SP.POP.TOTL,11166275,population
+SSD,South Sudan,2012,SP.POP.TOTL,10756240,population
+SSD,South Sudan,2011,SP.POP.TOTL,10288109,population
+SSD,South Sudan,2010,SP.POP.TOTL,9745953,population
+TZA,Tanzania,2024,SP.POP.TOTL,68560157,population
+TZA,Tanzania,2023,SP.POP.TOTL,66617606,population
+TZA,Tanzania,2022,SP.POP.TOTL,64711821,population
+TZA,Tanzania,2021,SP.POP.TOTL,62830412,population
+TZA,Tanzania,2020,SP.POP.TOTL,60972798,population
+TZA,Tanzania,2019,SP.POP.TOTL,59174891,population
+TZA,Tanzania,2018,SP.POP.TOTL,57437145,population
+TZA,Tanzania,2017,SP.POP.TOTL,55652890,population
+TZA,Tanzania,2016,SP.POP.TOTL,53824013,population
+TZA,Tanzania,2015,SP.POP.TOTL,52020962,population
+TZA,Tanzania,2014,SP.POP.TOTL,50351512,population
+TZA,Tanzania,2013,SP.POP.TOTL,48824128,population
+TZA,Tanzania,2012,SP.POP.TOTL,47374260,population
+TZA,Tanzania,2011,SP.POP.TOTL,46029367,population
+TZA,Tanzania,2010,SP.POP.TOTL,44758488,population
+UGA,Uganda,2024,SP.POP.TOTL,50015092,population
+UGA,Uganda,2023,SP.POP.TOTL,48656601,population
+UGA,Uganda,2022,SP.POP.TOTL,47312719,population
+UGA,Uganda,2021,SP.POP.TOTL,45910930,population
+UGA,Uganda,2020,SP.POP.TOTL,44457152,population
+UGA,Uganda,2019,SP.POP.TOTL,42999637,population
+UGA,Uganda,2018,SP.POP.TOTL,41565831,population
+UGA,Uganda,2017,SP.POP.TOTL,40177388,population
+UGA,Uganda,2016,SP.POP.TOTL,38799152,population
+UGA,Uganda,2015,SP.POP.TOTL,37531446,population
+UGA,Uganda,2014,SP.POP.TOTL,36395539,population
+UGA,Uganda,2013,SP.POP.TOTL,35337042,population
+UGA,Uganda,2012,SP.POP.TOTL,34337438,population
+UGA,Uganda,2011,SP.POP.TOTL,33354543,population
+UGA,Uganda,2010,SP.POP.TOTL,32390802,population
