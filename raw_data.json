@@ -1,0 +1,2444 @@
+{
+  "metadata": {
+    "source": "World Bank Indicators API",
+    "base_url": "https://api.worldbank.org/v2",
+    "period": "2010-2024",
+    "retrieved_date": "2026-08-17",
+    "countries": [
+      "Burundi",
+      "Ethiopia",
+      "Kenya",
+      "Rwanda",
+      "Somalia, Fed. Rep.",
+      "South Sudan",
+      "Tanzania",
+      "Uganda"
+    ],
+    "indicators": {
+      "IT.NET.USER.ZS": "Internet users (% of population)",
+      "IT.CEL.SETS.P2": "Mobile cellular subscriptions (per 100 people)",
+      "EG.ELC.ACCS.ZS": "Access to electricity (% of population)"
+    }
+  },
+  "internet_users": [
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2024,
+      "value": 8.595999718,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2023,
+      "value": 7.172299862,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2022,
+      "value": 7.144800186,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2021,
+      "value": 6.777999878,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2020,
+      "value": 6.430099964,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2019,
+      "value": 6.072199821,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2018,
+      "value": 4.019499779,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2017,
+      "value": 2.6607485347534,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2016,
+      "value": 2.200000048,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2015,
+      "value": 2.0,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2014,
+      "value": 1.04239212643994,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2013,
+      "value": 1.2642181112,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2012,
+      "value": 1.220000029,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2011,
+      "value": 1.110000014,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2010,
+      "value": 1.0,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2024,
+      "value": 21.94129944,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2023,
+      "value": 20.33749962,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2022,
+      "value": 17.9836998,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2021,
+      "value": 16.6981031,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2020,
+      "value": 16.06959915,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2019,
+      "value": 15.98460007,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2018,
+      "value": 15.88619995,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2017,
+      "value": 15.62440014,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2016,
+      "value": 15.3669238595896,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2015,
+      "value": 13.8551755555556,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2014,
+      "value": 7.699999809,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2013,
+      "value": 4.599999905,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2012,
+      "value": 2.900000095,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2011,
+      "value": 1.100000024,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2010,
+      "value": 0.75,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2024,
+      "value": 34.97622513,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2023,
+      "value": 32.07040024,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2022,
+      "value": 29.40589905,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2021,
+      "value": 26.96290016,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2020,
+      "value": 24.7227993,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2019,
+      "value": 22.6687733618171,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2018,
+      "value": 19.5,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2017,
+      "value": 17.82710075,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2016,
+      "value": 16.6,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2015,
+      "value": 16.5878548475992,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2014,
+      "value": 16.5,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2013,
+      "value": 13.0,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2012,
+      "value": 10.5,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2011,
+      "value": 8.800000191,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2010,
+      "value": 7.2,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2024,
+      "value": 31.70330048,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2023,
+      "value": 28.80579948,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2022,
+      "value": 28.01679993,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2021,
+      "value": 24.4416008,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2020,
+      "value": 23.8,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2019,
+      "value": 21.3579998,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2018,
+      "value": 19.16659927,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2017,
+      "value": 17.2,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2016,
+      "value": 14.63710022,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2015,
+      "value": 12.45600033,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2014,
+      "value": 10.60000038,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2013,
+      "value": 9.0,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2012,
+      "value": 8.023900032,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2011,
+      "value": 7.0,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2010,
+      "value": 8.0,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2024,
+      "value": 27.94020081,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2023,
+      "value": 26.12010002,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2022,
+      "value": 27.6,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2021,
+      "value": 23.87479973,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2020,
+      "value": 15.02369976,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2019,
+      "value": 2.731400013,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2016,
+      "value": 1.879999995,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2015,
+      "value": 1.75999999,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2014,
+      "value": 1.629999995,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2013,
+      "value": 1.5,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2012,
+      "value": 1.376700044,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2011,
+      "value": 1.25,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2019,
+      "value": 6.671000004,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2018,
+      "value": 4.800000191,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2017,
+      "value": 4.1,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2016,
+      "value": 3.5,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2015,
+      "value": 3.0,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2014,
+      "value": 2.599999905,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2013,
+      "value": 2.200000048,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2012,
+      "value": 1.5,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2024,
+      "value": 31.16209984,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2023,
+      "value": 28.43190002,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2022,
+      "value": 26.86059952,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2021,
+      "value": 22.87540054,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2020,
+      "value": 19.48139954,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2019,
+      "value": 16.59090042,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2018,
+      "value": 15.49069977,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2017,
+      "value": 14.46339989,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2016,
+      "value": 13.5042328468919,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2015,
+      "value": 10.0,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2014,
+      "value": 7.0,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2013,
+      "value": 4.400000095,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2012,
+      "value": 3.950000048,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2011,
+      "value": 3.200000048,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2010,
+      "value": 2.900000095,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2024,
+      "value": 8.949831061,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2023,
+      "value": 9.286999702,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2022,
+      "value": 9.636899948,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2021,
+      "value": 10.0,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2020,
+      "value": 7.4,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2019,
+      "value": 11.72579956,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2018,
+      "value": 9.326299667,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2017,
+      "value": 7.417900085,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2016,
+      "value": 5.9,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2015,
+      "value": 5.699999809,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2014,
+      "value": 5.400000095,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2013,
+      "value": 5.099999905,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2012,
+      "value": 4.800000191,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2011,
+      "value": 4.599999905,
+      "indicator": "Internet_Users_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2010,
+      "value": 4.300000191,
+      "indicator": "Internet_Users_Pct"
+    }
+  ],
+  "mobile_subscriptions": [
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2023,
+      "value": 63.1631365759764,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2022,
+      "value": 56.2599912004244,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2021,
+      "value": 59.700785493419,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2020,
+      "value": 52.5571219738138,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2019,
+      "value": 53.2995504978403,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2018,
+      "value": 53.2736942349584,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2017,
+      "value": 51.4533280518012,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2016,
+      "value": 47.6697304877258,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2015,
+      "value": 45.2379254099088,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2014,
+      "value": 29.567783062348,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2013,
+      "value": 24.3006814319026,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2012,
+      "value": 22.3127768088819,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2011,
+      "value": 19.7014852266593,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2010,
+      "value": 17.8962195049637,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2024,
+      "value": 65.0825091944922,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2023,
+      "value": 59.8748744402242,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2022,
+      "value": 56.9642988837987,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2021,
+      "value": 52.8088633217211,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2020,
+      "value": 37.4208472347226,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2019,
+      "value": 36.2199307720652,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2017,
+      "value": 36.1094836260863,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2016,
+      "value": 47.9993274246983,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2015,
+      "value": 40.7363012371526,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2014,
+      "value": 30.1536033852735,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2013,
+      "value": 26.0536269908585,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2012,
+      "value": 21.4239594545095,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2011,
+      "value": 15.1655003216856,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2010,
+      "value": 7.57025899497312,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2024,
+      "value": 126.477706000949,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2023,
+      "value": 120.612416887959,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2022,
+      "value": 121.168999135357,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2021,
+      "value": 122.297519656734,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2020,
+      "value": 117.602526394779,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2019,
+      "value": 106.547822056778,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2018,
+      "value": 98.5944679106884,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2017,
+      "value": 87.026530838819,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2016,
+      "value": 80.9772361004341,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2015,
+      "value": 80.0958263165851,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2014,
+      "value": 73.0327455558393,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2013,
+      "value": 70.7541086893706,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2012,
+      "value": 70.0226527327794,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2011,
+      "value": 65.6730161546273,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2010,
+      "value": 60.0234402305252,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2024,
+      "value": 93.201462876722,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2023,
+      "value": 91.4622704078141,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2022,
+      "value": 80.5952224850433,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2021,
+      "value": 81.6381635400584,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2020,
+      "value": 81.2378724761376,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2019,
+      "value": 75.5985451901883,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2018,
+      "value": 77.679469147812,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2017,
+      "value": 72.2764598764471,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2016,
+      "value": 74.8502057565523,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2015,
+      "value": 75.2543165296423,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2014,
+      "value": 68.1670448387062,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2013,
+      "value": 60.2988640030865,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2012,
+      "value": 52.5466576287262,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2011,
+      "value": 42.049425685328,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2010,
+      "value": 34.395374562166,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2023,
+      "value": 53.9579646939598,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2022,
+      "value": 49.6800986995936,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2021,
+      "value": 51.2059481348129,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2020,
+      "value": 53.1133178401473,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2019,
+      "value": 51.3194116563494,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2018,
+      "value": 49.5262671956948,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2017,
+      "value": 47.725260177752,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2016,
+      "value": 46.366719307758,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2015,
+      "value": 42.2685278435236,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2014,
+      "value": 41.2309585125849,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2013,
+      "value": 40.2732207402969,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2012,
+      "value": 18.457350680033,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2011,
+      "value": 14.5762796961332,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2010,
+      "value": 5.28635539640489,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2023,
+      "value": 46.6152369503945,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2022,
+      "value": 48.4888320004297,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2021,
+      "value": 30.151042999214,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2019,
+      "value": 21.3171365460584,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2018,
+      "value": 18.9297575209348,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2017,
+      "value": 27.1848244017002,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2016,
+      "value": 24.930513119821,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2015,
+      "value": 26.0993389998038,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2014,
+      "value": 25.599272919722,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2013,
+      "value": 25.5521917559795,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2012,
+      "value": 21.3829367883201,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2011,
+      "value": 17.4959266080871,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2010,
+      "value": 15.3910038351303,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2024,
+      "value": 126.559163217786,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2023,
+      "value": 105.40028112088,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2022,
+      "value": 93.0159746238635,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2021,
+      "value": 86.0162814148027,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2020,
+      "value": 84.0050558283384,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2019,
+      "value": 80.5835569684446,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2018,
+      "value": 75.7301934140355,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2017,
+      "value": 71.7911684370749,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2016,
+      "value": 74.3983656514054,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2015,
+      "value": 76.2492627491202,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2014,
+      "value": 63.2804353521698,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2013,
+      "value": 56.2075025692215,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2012,
+      "value": 57.4558483868666,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2011,
+      "value": 55.7610427273527,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2010,
+      "value": 46.8823991552172,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2024,
+      "value": 83.165031466902,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2023,
+      "value": 76.2966796632588,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2022,
+      "value": 70.1401117953081,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2021,
+      "value": 65.6220730009172,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2020,
+      "value": 62.2824129624858,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2019,
+      "value": 59.0598078769828,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2018,
+      "value": 58.8753608703264,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2017,
+      "value": 62.0968142578109,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2016,
+      "value": 58.8633638178484,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2015,
+      "value": 53.8755501186925,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2014,
+      "value": 55.9572451997482,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2013,
+      "value": 51.1323160552035,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2012,
+      "value": 47.6342672974029,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2011,
+      "value": 50.0591238800663,
+      "indicator": "Mobile_Subscriptions_Per100"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2010,
+      "value": 39.6046507276973,
+      "indicator": "Mobile_Subscriptions_Per100"
+    }
+  ],
+  "electricity_access": [
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2024,
+      "value": 20.1,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2023,
+      "value": 11.6,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2022,
+      "value": 10.3,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2021,
+      "value": 10.2,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2020,
+      "value": 9.1,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2019,
+      "value": 9.8,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2018,
+      "value": 9.5,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2017,
+      "value": 9.3,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2016,
+      "value": 8.5,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2015,
+      "value": 7.9,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2014,
+      "value": 7.0,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2013,
+      "value": 6.9,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2012,
+      "value": 6.5,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2011,
+      "value": 6.2,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Burundi",
+      "country_code": "BDI",
+      "year": 2010,
+      "value": 5.3,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2024,
+      "value": 56.6,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2023,
+      "value": 55.4,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2022,
+      "value": 55.0,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2021,
+      "value": 54.2,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2020,
+      "value": 51.1,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2019,
+      "value": 48.0,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2018,
+      "value": 44.8,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2017,
+      "value": 44.3,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2016,
+      "value": 42.9,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2015,
+      "value": 29.0,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2014,
+      "value": 27.2,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2013,
+      "value": 30.8,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2012,
+      "value": 29.0,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2011,
+      "value": 23.0,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Ethiopia",
+      "country_code": "ETH",
+      "year": 2010,
+      "value": 25.5,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2024,
+      "value": 77.0,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2023,
+      "value": 76.2,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2022,
+      "value": 76.0,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2021,
+      "value": 76.5,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2020,
+      "value": 71.5,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2019,
+      "value": 69.7,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2018,
+      "value": 61.2,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2017,
+      "value": 55.8,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2016,
+      "value": 53.1,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2015,
+      "value": 41.6,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2014,
+      "value": 36.0,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2013,
+      "value": 40.1,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2012,
+      "value": 38.1,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2011,
+      "value": 36.2,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KEN",
+      "year": 2010,
+      "value": 19.2,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2024,
+      "value": 72.0,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2023,
+      "value": 63.9,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2022,
+      "value": 50.6,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2021,
+      "value": 48.7,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2020,
+      "value": 45.2,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2019,
+      "value": 46.6,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2018,
+      "value": 38.0,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2017,
+      "value": 34.1,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2016,
+      "value": 29.4,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2015,
+      "value": 22.8,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2014,
+      "value": 19.8,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2013,
+      "value": 15.2,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2012,
+      "value": 17.5,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2011,
+      "value": 10.8,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWA",
+      "year": 2010,
+      "value": 9.7,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2024,
+      "value": 54.4,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2023,
+      "value": 50.3,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2022,
+      "value": 48.9,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2021,
+      "value": 49.3,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2020,
+      "value": 49.9,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2019,
+      "value": 49.2,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2018,
+      "value": 50.7,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2017,
+      "value": 52.1,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2016,
+      "value": 51.1,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2015,
+      "value": 51.2,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2014,
+      "value": 51.4,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2013,
+      "value": 51.5,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2012,
+      "value": 51.8,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2011,
+      "value": 52.0,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Somalia, Fed. Rep.",
+      "country_code": "SOM",
+      "year": 2010,
+      "value": 52.3,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2024,
+      "value": 5.4,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2023,
+      "value": 5.4,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2022,
+      "value": 8.4,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2021,
+      "value": 7.7,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2020,
+      "value": 7.3,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2019,
+      "value": 6.8,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2018,
+      "value": 6.3,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2017,
+      "value": 4.2,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2016,
+      "value": 5.3,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2015,
+      "value": 4.8,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2014,
+      "value": 4.3,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2013,
+      "value": 3.8,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2012,
+      "value": 3.3,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2011,
+      "value": 2.8,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSD",
+      "year": 2010,
+      "value": 1.5,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2024,
+      "value": 52.4,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2023,
+      "value": 48.3,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2022,
+      "value": 45.8,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2021,
+      "value": 42.7,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2020,
+      "value": 39.9,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2019,
+      "value": 37.7,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2018,
+      "value": 34.9,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2017,
+      "value": 32.1,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2016,
+      "value": 32.8,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2015,
+      "value": 26.2,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2014,
+      "value": 23.5,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2013,
+      "value": 16.4,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2012,
+      "value": 15.3,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2011,
+      "value": 14.2,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZA",
+      "year": 2010,
+      "value": 14.8,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2024,
+      "value": 55.3,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2023,
+      "value": 51.5,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2022,
+      "value": 47.1,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2021,
+      "value": 45.2,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2020,
+      "value": 42.1,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2019,
+      "value": 41.3,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2018,
+      "value": 41.9,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2017,
+      "value": 32.4,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2016,
+      "value": 26.7,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2015,
+      "value": 18.5,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2014,
+      "value": 20.4,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2013,
+      "value": 13.9,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2012,
+      "value": 20.5,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2011,
+      "value": 14.6,
+      "indicator": "Electricity_Access_Pct"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGA",
+      "year": 2010,
+      "value": 12.1,
+      "indicator": "Electricity_Access_Pct"
+    }
+  ]
+}
