@@ -63,7 +63,7 @@ This project retrieves, cleans, and analyzes World Bank indicator data (2010–2
 | Name | Contribution |
 |---|---|
 | _Kathembo Tsongo 112721_ | _Repos creation, Set the working Environment, Data Preparation from the WB API_ |
-| _Sarah Mogare_ | _Questions 1 and 2_ |
+| _Sarah Mongare 133834_ | _Questions 1 and 2_ |
 | _David_ | _Question 3 and 4_ |
 | _Mark_ | _Questions 5 and 6_ |
 | _Neville Misheti_ | _Interractive Dashboard_ |
