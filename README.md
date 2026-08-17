@@ -33,6 +33,8 @@ View the group explanation of the project on the short link - http://tiny.cc/grp
 ├── raw_data.json # Raw API response, saved before cleaning
 ├── panel_clean.csv # Cleaned, wide-format dataset (dashboard data source)
 ├── raw_world_bank_data.zip # Archived raw pull from the World Bank API
+├── Group2_Digital_Transformation_Dashboard.twbx # Packaged Tableau dashboard (workbook + data bundled)
+├── Group2_Digital_Transformation_Dashboard.pdf # Static PDF snapshot of the dashboard
 ├── clean_data/ # Supporting cleaned data files
 ├── raw_data/ # Supporting raw data files
 ├── LICENSE
@@ -51,14 +53,24 @@ View the group explanation of the project on the short link - http://tiny.cc/grp
 
 ## Dashboard
 
-*(In progress)* An interactive dashboard (Streamlit) will provide KPI cards, filterable charts, a geographic map, and drill-down views built on `panel_clean.csv`, for EACO to explore the data directly.
+An interactive Tableau dashboard built on `panel_clean.csv` gives EACO a self-service view of the analysis: 3 KPI cards, 5 interactive charts, a Country filter, and a geographic map with drill-down.
+
+**How to access it:**
+
+- **Interactive version (recommended):** open `Group2_Digital_Transformation_Dashboard.twbx` in [Tableau Desktop](https://www.tableau.com/products/desktop) or the free [Tableau Reader](https://www.tableau.com/products/reader). The file is self-contained — the data is bundled inside, so no extra setup is required.
+- **Quick preview (no software needed):** open `Group2_Digital_Transformation_Dashboard.pdf` for a static snapshot of the dashboard.
+
+**Using the dashboard:**
+
+- Use the **Country filter** to focus on one or more countries across all charts at once.
+- **To drill down, click on a country on the map view** — this filters every other chart on the dashboard to that country. Click empty space on the map to reset back to all countries.
 
 ## Deliverables
 
 - [x] Python Notebook (`Digital_Transformation.ipynb`)
 - [x] Raw JSON data (`raw_data.json`)
 - [x] Cleaned CSV dataset (`panel_clean.csv`)
-- [ ] Interactive dashboard
+- [x] Interactive dashboard (`Group2_Digital_Transformation_Dashboard.twbx`, snapshot in `Group2_Digital_Transformation_Dashboard.pdf`)
 - [x] Presentation slides(`Group 2 Capstone-Digital Transformation.pptx`)
 - [ ] Group member contributions
 
