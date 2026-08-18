@@ -72,7 +72,7 @@ An interactive Tableau dashboard built on `panel_clean.csv` gives EACO a self-se
 - [x] Cleaned CSV dataset (`panel_clean.csv`)
 - [x] Interactive dashboard (`Group2_Digital_Transformation_Dashboard.twbx`, snapshot in `Group2_Digital_Transformation_Dashboard.pdf`)
 - [x] Presentation slides(`Group 2 Capstone-Digital Transformation.pptx`)
-- [ ] Group member contributions
+- [x] Group member contributions
 
 ## Group Members
 
@@ -82,7 +82,7 @@ An interactive Tableau dashboard built on `panel_clean.csv` gives EACO a self-se
 | _Sarah Mongare 133834_ | _Questions 1 and 2, Powerpoint_ |
 | _David Gathage 223405_ | DQA, cleaning, and exploratory data analysis |
 | _Mark Murungi 98283_ | _Questions 5 and 6_ |
-| _Neville Masheti_ | _Interactive Dashboard_ |
+| _Neville Masheti 138133_ | _Interactive Dashboard_ |
 
 ## How to Run
 
